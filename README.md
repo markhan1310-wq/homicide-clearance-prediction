@@ -22,8 +22,8 @@ Models are evaluated using repeated stratified 80/20 train/test splits.
 ## Repository structure
 
 - `notebooks/` – analysis notebooks
-- `data/` – information on obtaining the datasets
-- `results/` – model outputs and figures
+- `figures/` – model figures
+- `results/` – model outputs
 
 ## Workflow
 1. Data preparation and cleaning
