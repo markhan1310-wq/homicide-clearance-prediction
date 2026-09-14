@@ -50,7 +50,7 @@ ACS data are the 2019–2023 five-year estimates, using:
 The notebooks are intended to be run in numerical order.
 
 The raw datasets are not redistributed through this repository.
-See `data/README.md` for source information.
+See `notebooks/README.md` for source information.
 
 ## License
 
