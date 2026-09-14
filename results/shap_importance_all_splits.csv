@@ -1,0 +1,2821 @@
+Feature,Split,Model,Mean_Abs_SHAP
+Year,0,Random Forest,0.00407059441837758
+VicAge,0,Random Forest,0.004970579949740952
+VicCount,0,Random Forest,0.0006120157921275681
+OffCount,0,Random Forest,0.032975981476987395
+Monthly_Overlap,0,Random Forest,0.023667554232112583
+FTSWORN,0,Random Forest,0.0075645331197526965
+PTSWORN,0,Random Forest,0.0007518684245564225
+TOTFTEMP,0,Random Forest,0.012980581916047895
+OPBUDGET,0,Random Forest,0.012118969371887759
+DET_SWN,0,Random Forest,0.009076785876260318
+PERS_TRN_ACAD,0,Random Forest,0.0035542137398194996
+PERS_TRN_INSVC,0,Random Forest,0.0018004691804296123
+PERS_EDU_MIN,0,Random Forest,0.0012516068177138406
+PovertyRate,0,Random Forest,0.00259120791831458
+UnemploymentRate,0,Random Forest,0.011662667867516605
+State_Alabama,0,Random Forest,7.014618496521649e-05
+State_Alaska,0,Random Forest,2.7438400381907316e-06
+State_Arizona,0,Random Forest,5.3035415428377363e-05
+State_Arkansas,0,Random Forest,6.43104528653273e-05
+State_California,0,Random Forest,0.007186760631629212
+State_Colorado,0,Random Forest,3.188367575939831e-05
+State_Connecticut,0,Random Forest,2.4698170257801973e-05
+State_Delaware,0,Random Forest,1.844196546793413e-06
+State_District of Columbia,0,Random Forest,0.000807698720647467
+State_Florida,0,Random Forest,0.0002980594204286848
+State_Georgia,0,Random Forest,0.00022145939822283285
+State_Hawaii,0,Random Forest,3.9059638502361175e-06
+State_Idaho,0,Random Forest,1.6769657959186187e-05
+State_Illinois,0,Random Forest,0.00022612335487456797
+State_Indiana,0,Random Forest,8.766320778555252e-05
+State_Iowa,0,Random Forest,4.19313548634118e-06
+State_Kansas,0,Random Forest,3.416008923069603e-05
+State_Kentucky,0,Random Forest,1.3511191302312978e-05
+State_Louisiana,0,Random Forest,3.509581089848157e-05
+State_Maine,0,Random Forest,1.7692852281815498e-06
+State_Maryland,0,Random Forest,0.00024003930956586654
+State_Massachusetts,0,Random Forest,2.378008213328416e-05
+State_Michigan,0,Random Forest,7.986184609383464e-05
+State_Minnesota,0,Random Forest,2.0133790461874845e-05
+State_Mississippi,0,Random Forest,8.23504061909161e-05
+State_Missouri,0,Random Forest,0.00012853847873871602
+State_Montana,0,Random Forest,2.2549080680573224e-06
+State_Nebraska,0,Random Forest,1.6902271227960514e-06
+State_Nevada,0,Random Forest,3.005764645563511e-05
+State_New Hampshire,0,Random Forest,5.863917795135069e-07
+State_New Jersey,0,Random Forest,0.00014522933102305383
+State_New Mexico,0,Random Forest,1.0194526458498357e-05
+State_New York,0,Random Forest,0.000664551137816371
+State_North Carolina,0,Random Forest,0.0001729189559106326
+State_North Dakota,0,Random Forest,2.1272982424656324e-06
+State_Ohio,0,Random Forest,4.184566255713583e-05
+State_Oklahoma,0,Random Forest,8.358283476226348e-05
+State_Oregon,0,Random Forest,5.361468431095471e-06
+State_Pennsylvania,0,Random Forest,0.0001299551537139449
+State_Rhode Island,0,Random Forest,2.432702078115462e-06
+State_South Carolina,0,Random Forest,0.0004163306223248999
+State_South Dakota,0,Random Forest,3.0101846967154836e-06
+State_Tennessee,0,Random Forest,0.000465949515931656
+State_Texas,0,Random Forest,0.0019417102195634596
+State_Utah,0,Random Forest,1.8029625666232164e-06
+State_Vermont,0,Random Forest,9.349286432270009e-07
+State_Virginia,0,Random Forest,0.0001561863942930201
+State_Washington,0,Random Forest,2.5349786951915532e-05
+State_West Virginia,0,Random Forest,2.7815246423860156e-05
+State_Wisconsin,0,Random Forest,2.7376659381991194e-05
+State_Wyoming,0,Random Forest,8.871461276137818e-07
+Agentype_County police,0,Random Forest,0.00010614217261708977
+Agentype_Municipal police,0,Random Forest,0.0057312084549392215
+Agentype_Primary federal LE,0,Random Forest,1.435670549677319e-06
+Agentype_Primary state LE,0,Random Forest,0.0002882817965049354
+Agentype_Regional police,0,Random Forest,6.083474502002516e-07
+Agentype_Sheriff,0,Random Forest,0.003518774191386007
+Agentype_Special police,0,Random Forest,1.6125790428025498e-06
+Agentype_Tribal,0,Random Forest,4.2465560759075595e-06
+Month_April,0,Random Forest,3.033835812268864e-05
+Month_August,0,Random Forest,3.431502506108139e-05
+Month_December,0,Random Forest,0.0001107543551781809
+Month_February,0,Random Forest,4.9004452301070756e-05
+Month_January,0,Random Forest,4.088110912365861e-05
+Month_July,0,Random Forest,3.703986296777349e-05
+Month_June,0,Random Forest,3.5744733744323325e-05
+Month_March,0,Random Forest,3.19689116163547e-05
+Month_May,0,Random Forest,3.955769424864004e-05
+Month_November,0,Random Forest,4.971684578730568e-05
+Month_October,0,Random Forest,3.156316617613545e-05
+Month_September,0,Random Forest,3.323241677285622e-05
+VicSex_Female,0,Random Forest,0.008184894486002597
+VicSex_Male,0,Random Forest,0.006482630779639385
+VicSex_Unknown,0,Random Forest,7.170675436922696e-06
+VicRace_American Indian or Alaskan Native,0,Random Forest,9.938015509221839e-06
+VicRace_Asian,0,Random Forest,1.855495820640147e-05
+VicRace_Black,0,Random Forest,0.005385288792403461
+VicRace_Native Hawaiian or Pacific Islander,0,Random Forest,7.565361476156035e-07
+VicRace_Unknown,0,Random Forest,2.53720329464371e-05
+VicRace_White,0,Random Forest,0.005252803689971213
+Weapon_Asphyxiation - includes death by gas,0,Random Forest,5.72510684647075e-06
+"Weapon_Blunt object - hammer, club, etc",0,Random Forest,0.00013098931476030016
+Weapon_Drowning,0,Random Forest,3.1949205683872446e-06
+Weapon_Explosives,0,Random Forest,1.4408170050949113e-06
+Weapon_Fire,0,Random Forest,6.139448324665404e-05
+"Weapon_Firearm, type not stated",0,Random Forest,0.010049555604773556
+"Weapon_Handgun - pistol, revolver, etc",0,Random Forest,0.0017306994441548256
+Weapon_Knife or cutting instrument,0,Random Forest,0.00493861918574468
+"Weapon_Narcotics or drugs, sleeping pills",0,Random Forest,5.91057798329644e-06
+Weapon_Other gun,0,Random Forest,3.9062543000975916e-05
+Weapon_Other or type unknown,0,Random Forest,0.001992764749302058
+"Weapon_Personal weapons, includes beating",0,Random Forest,0.00151358192303867
+Weapon_Poison - does not include gas,0,Random Forest,1.255654353133651e-06
+Weapon_Pushed or thrown out window,0,Random Forest,2.6760120016707704e-07
+Weapon_Rifle,0,Random Forest,0.000986502929720843
+Weapon_Shotgun,0,Random Forest,0.001256602701548355
+Weapon_Strangulation - hanging,0,Random Forest,0.00036977709107477235
+Weapon_Weapon Not Reported,0,Random Forest,5.242871696017776e-05
+Circumstance_All other manslaughter by negligence,0,Random Forest,6.620949998889297e-06
+Circumstance_All suspected felony type,0,Random Forest,0.003732787719794294
+Circumstance_Argument over money or property,0,Random Forest,0.0026462904219857033
+Circumstance_Arson,0,Random Forest,0.00014067346776040762
+Circumstance_Brawl due to influence of alcohol,0,Random Forest,0.0027830724961098725
+Circumstance_Brawl due to influence of narcotics,0,Random Forest,5.567207698171163e-05
+Circumstance_Burglary,0,Random Forest,8.658693149269187e-05
+Circumstance_Child killed by babysitter,0,Random Forest,4.352473482193007e-05
+Circumstance_Circumstances undetermined,0,Random Forest,0.086509861147051
+Circumstance_Felon killed by police,0,Random Forest,0.0024095098846973017
+Circumstance_Felon killed by private citizen,0,Random Forest,0.004204347832556289
+Circumstance_Gambling,0,Random Forest,5.842771355921185e-06
+Circumstance_Gangland killings,0,Random Forest,0.00012650381598877094
+Circumstance_Institutional killings,0,Random Forest,9.026720800323464e-06
+Circumstance_Juvenile gang killings,0,Random Forest,0.002674787949638456
+Circumstance_Larceny,0,Random Forest,2.7092375847253272e-06
+Circumstance_Lovers triangle,0,Random Forest,0.0025986918474035247
+Circumstance_Motor vehicle theft,0,Random Forest,1.6052157862600484e-06
+Circumstance_Narcotic drug laws,0,Random Forest,0.0009383195564967698
+Circumstance_Other,0,Random Forest,0.013665492464906987
+Circumstance_Other - not specified,0,Random Forest,0.0015054026289093732
+Circumstance_Other arguments,0,Random Forest,0.0646022817743063
+Circumstance_Other negligent handling of gun,0,Random Forest,7.561156486750967e-07
+Circumstance_Other sex offense,0,Random Forest,3.2437957154783225e-06
+Circumstance_Prostitution and commercialized vice,0,Random Forest,3.6363090798471763e-06
+Circumstance_Rape,0,Random Forest,7.463670499630845e-05
+Circumstance_Robbery,0,Random Forest,0.0023995145297611028
+Circumstance_Sniper attack,0,Random Forest,3.7856050720936145e-06
+Year,0,XGBoost,0.1849312037229538
+VicAge,0,XGBoost,0.11787257343530655
+VicCount,0,XGBoost,0.03472666069865227
+OffCount,0,XGBoost,0.4537844657897949
+Monthly_Overlap,0,XGBoost,0.1205078735947609
+FTSWORN,0,XGBoost,0.0795835629105568
+PTSWORN,0,XGBoost,0.008016870357096195
+TOTFTEMP,0,XGBoost,0.05799250304698944
+OPBUDGET,0,XGBoost,0.06781310588121414
+DET_SWN,0,XGBoost,0.06064382940530777
+PERS_TRN_ACAD,0,XGBoost,0.06244170293211937
+PERS_TRN_INSVC,0,XGBoost,0.03798083961009979
+PERS_EDU_MIN,0,XGBoost,0.010537861846387386
+PovertyRate,0,XGBoost,0.050836700946092606
+UnemploymentRate,0,XGBoost,0.1059606596827507
+State_Alabama,0,XGBoost,0.005331058986485004
+State_Alaska,0,XGBoost,0.0
+State_Arizona,0,XGBoost,0.00294283963739872
+State_Arkansas,0,XGBoost,0.005276927258819342
+State_California,0,XGBoost,0.12624113261699677
+State_Colorado,0,XGBoost,0.002728660125285387
+State_Connecticut,0,XGBoost,0.0010287127224728465
+State_Delaware,0,XGBoost,0.0016280020354315639
+State_District of Columbia,0,XGBoost,0.0104306535795331
+State_Florida,0,XGBoost,0.01279909722507
+State_Georgia,0,XGBoost,0.00512694800272584
+State_Hawaii,0,XGBoost,0.0
+State_Idaho,0,XGBoost,0.0011198888532817364
+State_Illinois,0,XGBoost,0.0041411640122532845
+State_Indiana,0,XGBoost,0.0026463097892701626
+State_Iowa,0,XGBoost,0.0015379273099824786
+State_Kansas,0,XGBoost,0.004070335067808628
+State_Kentucky,0,XGBoost,0.0016785924090072513
+State_Louisiana,0,XGBoost,0.0045949905179440975
+State_Maine,0,XGBoost,0.0006074521807022393
+State_Maryland,0,XGBoost,0.0017890945309773088
+State_Massachusetts,0,XGBoost,0.0022596726194024086
+State_Michigan,0,XGBoost,0.006032052915543318
+State_Minnesota,0,XGBoost,0.0028657258953899145
+State_Mississippi,0,XGBoost,0.006216026842594147
+State_Missouri,0,XGBoost,0.0009682447416707873
+State_Montana,0,XGBoost,0.00026519587845541537
+State_Nebraska,0,XGBoost,0.0
+State_Nevada,0,XGBoost,0.0025219926610589027
+State_New Hampshire,0,XGBoost,0.0001732443633954972
+State_New Jersey,0,XGBoost,0.00128883495926857
+State_New Mexico,0,XGBoost,0.00120915484149009
+State_New York,0,XGBoost,0.005636327899992466
+State_North Carolina,0,XGBoost,0.0022154024336487055
+State_North Dakota,0,XGBoost,0.00037064755451865494
+State_Ohio,0,XGBoost,0.0021539940498769283
+State_Oklahoma,0,XGBoost,0.0021340337116271257
+State_Oregon,0,XGBoost,7.087808626238257e-05
+State_Pennsylvania,0,XGBoost,0.011610164307057858
+State_Rhode Island,0,XGBoost,2.0245570340193808e-05
+State_South Carolina,0,XGBoost,0.008737350814044476
+State_South Dakota,0,XGBoost,0.0005228474619798362
+State_Tennessee,0,XGBoost,0.013159370049834251
+State_Texas,0,XGBoost,0.02532772719860077
+State_Utah,0,XGBoost,0.0004571825556922704
+State_Vermont,0,XGBoost,0.0
+State_Virginia,0,XGBoost,0.010689372196793556
+State_Washington,0,XGBoost,0.0018811059417203069
+State_West Virginia,0,XGBoost,0.0030059649143368006
+State_Wisconsin,0,XGBoost,0.0017867229180410504
+State_Wyoming,0,XGBoost,3.900471710949205e-05
+Agentype_County police,0,XGBoost,0.0006008724449202418
+Agentype_Municipal police,0,XGBoost,0.02931688167154789
+Agentype_Primary federal LE,0,XGBoost,0.0
+Agentype_Primary state LE,0,XGBoost,0.0051840669475495815
+Agentype_Regional police,0,XGBoost,0.0
+Agentype_Sheriff,0,XGBoost,0.01417518500238657
+Agentype_Special police,0,XGBoost,0.0
+Agentype_Tribal,0,XGBoost,2.7440726626082323e-05
+Month_April,0,XGBoost,0.0015913924435153604
+Month_August,0,XGBoost,0.0003553266287781298
+Month_December,0,XGBoost,0.02445591799914837
+Month_February,0,XGBoost,0.005628332030028105
+Month_January,0,XGBoost,0.0037080328911542892
+Month_July,0,XGBoost,0.0004751130472868681
+Month_June,0,XGBoost,0.00017477647634223104
+Month_March,0,XGBoost,0.0016754374373704195
+Month_May,0,XGBoost,0.0003575639275368303
+Month_November,0,XGBoost,0.01556868851184845
+Month_October,0,XGBoost,0.007299802266061306
+Month_September,0,XGBoost,0.0022274740040302277
+VicSex_Female,0,XGBoost,0.13936656713485718
+VicSex_Male,0,XGBoost,0.006689675152301788
+VicSex_Unknown,0,XGBoost,0.0007559618097729981
+VicRace_American Indian or Alaskan Native,0,XGBoost,6.650981958955526e-05
+VicRace_Asian,0,XGBoost,0.0005014433991163969
+VicRace_Black,0,XGBoost,0.0437336191534996
+VicRace_Native Hawaiian or Pacific Islander,0,XGBoost,0.0
+VicRace_Unknown,0,XGBoost,0.0014644981129094958
+VicRace_White,0,XGBoost,0.04384329169988632
+Weapon_Asphyxiation - includes death by gas,0,XGBoost,0.001069539925083518
+"Weapon_Blunt object - hammer, club, etc",0,XGBoost,0.006652163341641426
+Weapon_Drowning,0,XGBoost,0.00025525351520627737
+Weapon_Explosives,0,XGBoost,0.0004529057478066534
+Weapon_Fire,0,XGBoost,0.000928817200474441
+"Weapon_Firearm, type not stated",0,XGBoost,0.10382836312055588
+"Weapon_Handgun - pistol, revolver, etc",0,XGBoost,0.031138461083173752
+Weapon_Knife or cutting instrument,0,XGBoost,0.08194644749164581
+"Weapon_Narcotics or drugs, sleeping pills",0,XGBoost,0.0011690891114994884
+Weapon_Other gun,0,XGBoost,0.005823882762342691
+Weapon_Other or type unknown,0,XGBoost,0.047314826399087906
+"Weapon_Personal weapons, includes beating",0,XGBoost,0.027840815484523773
+Weapon_Poison - does not include gas,0,XGBoost,0.00015470052312593907
+Weapon_Pushed or thrown out window,0,XGBoost,0.00019839164451695979
+Weapon_Rifle,0,XGBoost,0.027172552421689034
+Weapon_Shotgun,0,XGBoost,0.03585916757583618
+Weapon_Strangulation - hanging,0,XGBoost,0.008362550288438797
+Weapon_Weapon Not Reported,0,XGBoost,0.002287119161337614
+Circumstance_All other manslaughter by negligence,0,XGBoost,0.0018051336519420147
+Circumstance_All suspected felony type,0,XGBoost,0.04907522723078728
+Circumstance_Argument over money or property,0,XGBoost,0.05445535480976105
+Circumstance_Arson,0,XGBoost,0.008652502670884132
+Circumstance_Brawl due to influence of alcohol,0,XGBoost,0.046094346791505814
+Circumstance_Brawl due to influence of narcotics,0,XGBoost,0.004940510727465153
+Circumstance_Burglary,0,XGBoost,0.002814974170178175
+Circumstance_Child killed by babysitter,0,XGBoost,0.0035961780231446028
+Circumstance_Circumstances undetermined,0,XGBoost,0.726441502571106
+Circumstance_Felon killed by police,0,XGBoost,0.057342279702425
+Circumstance_Felon killed by private citizen,0,XGBoost,0.06851902604103088
+Circumstance_Gambling,0,XGBoost,0.003046459285542369
+Circumstance_Gangland killings,0,XGBoost,0.010793943889439106
+Circumstance_Institutional killings,0,XGBoost,0.0018080121371895075
+Circumstance_Juvenile gang killings,0,XGBoost,0.021027369424700737
+Circumstance_Larceny,0,XGBoost,0.001311573083512485
+Circumstance_Lovers triangle,0,XGBoost,0.059112194925546646
+Circumstance_Motor vehicle theft,0,XGBoost,0.0005449859891086817
+Circumstance_Narcotic drug laws,0,XGBoost,0.013110090047121048
+Circumstance_Other,0,XGBoost,0.09244266152381897
+Circumstance_Other - not specified,0,XGBoost,0.024099333211779594
+Circumstance_Other arguments,0,XGBoost,0.48583984375
+Circumstance_Other negligent handling of gun,0,XGBoost,0.0007614497444592416
+Circumstance_Other sex offense,0,XGBoost,0.0009677273919805884
+Circumstance_Prostitution and commercialized vice,0,XGBoost,0.00011290441761957482
+Circumstance_Rape,0,XGBoost,0.002779825124889612
+Circumstance_Robbery,0,XGBoost,0.03627792373299599
+Circumstance_Sniper attack,0,XGBoost,0.0010534217581152916
+Year,1,Random Forest,0.004148843797631127
+VicAge,1,Random Forest,0.004812513841690576
+VicCount,1,Random Forest,0.0006992184167431445
+OffCount,1,Random Forest,0.03626162176170128
+Monthly_Overlap,1,Random Forest,0.022415863986822816
+FTSWORN,1,Random Forest,0.007773124859369377
+PTSWORN,1,Random Forest,0.0009769810348492162
+TOTFTEMP,1,Random Forest,0.012104227514127193
+OPBUDGET,1,Random Forest,0.013357378420868418
+DET_SWN,1,Random Forest,0.00813830221166019
+PERS_TRN_ACAD,1,Random Forest,0.0037317084778969575
+PERS_TRN_INSVC,1,Random Forest,0.0017795418324231102
+PERS_EDU_MIN,1,Random Forest,0.0013385921722418124
+PovertyRate,1,Random Forest,0.0022535452694759104
+UnemploymentRate,1,Random Forest,0.011630803237233511
+State_Alabama,1,Random Forest,9.35928391011623e-05
+State_Alaska,1,Random Forest,2.911739665986834e-06
+State_Arizona,1,Random Forest,4.530733653930101e-05
+State_Arkansas,1,Random Forest,2.345186277489721e-05
+State_California,1,Random Forest,0.006503459940413725
+State_Colorado,1,Random Forest,4.7415330242560795e-05
+State_Connecticut,1,Random Forest,2.7002072707540706e-05
+State_Delaware,1,Random Forest,4.886490367252817e-06
+State_District of Columbia,1,Random Forest,0.0007372289987881453
+State_Florida,1,Random Forest,0.00033729987073866937
+State_Georgia,1,Random Forest,0.00020268354410129193
+State_Hawaii,1,Random Forest,8.213945727559598e-06
+State_Idaho,1,Random Forest,1.0314868435348815e-05
+State_Illinois,1,Random Forest,0.0002978220575821442
+State_Indiana,1,Random Forest,9.027598867156619e-05
+State_Iowa,1,Random Forest,7.879585593137548e-06
+State_Kansas,1,Random Forest,2.6243305459066016e-05
+State_Kentucky,1,Random Forest,1.2260423099008907e-05
+State_Louisiana,1,Random Forest,8.025507442171812e-05
+State_Maine,1,Random Forest,4.052083046513492e-06
+State_Maryland,1,Random Forest,0.00028583923716488704
+State_Massachusetts,1,Random Forest,3.732361190632511e-05
+State_Michigan,1,Random Forest,6.246422631113815e-05
+State_Minnesota,1,Random Forest,1.603786931795477e-05
+State_Mississippi,1,Random Forest,6.271791218792863e-05
+State_Missouri,1,Random Forest,9.334219220253485e-05
+State_Montana,1,Random Forest,3.853294732521872e-06
+State_Nebraska,1,Random Forest,4.5917144076368086e-06
+State_Nevada,1,Random Forest,2.4593690907108113e-05
+State_New Hampshire,1,Random Forest,1.383237809101083e-06
+State_New Jersey,1,Random Forest,0.00015378931363608383
+State_New Mexico,1,Random Forest,8.939342496835856e-06
+State_New York,1,Random Forest,0.001060288184784675
+State_North Carolina,1,Random Forest,0.00011341040013019372
+State_North Dakota,1,Random Forest,2.912139323320021e-06
+State_Ohio,1,Random Forest,4.7358657767081894e-05
+State_Oklahoma,1,Random Forest,5.725049193788051e-05
+State_Oregon,1,Random Forest,8.348508091913864e-06
+State_Pennsylvania,1,Random Forest,0.00015804865873269699
+State_Rhode Island,1,Random Forest,1.7888169707991907e-06
+State_South Carolina,1,Random Forest,0.0003367978251401586
+State_South Dakota,1,Random Forest,1.360527015287376e-06
+State_Tennessee,1,Random Forest,0.0004521328136324274
+State_Texas,1,Random Forest,0.0020567616345420476
+State_Utah,1,Random Forest,1.0367681384568812e-05
+State_Vermont,1,Random Forest,5.20844386800035e-07
+State_Virginia,1,Random Forest,0.000139122884701105
+State_Washington,1,Random Forest,2.028013880548281e-05
+State_West Virginia,1,Random Forest,1.7215412949838733e-05
+State_Wisconsin,1,Random Forest,2.922263760424494e-05
+State_Wyoming,1,Random Forest,6.909099090416319e-07
+Agentype_County police,1,Random Forest,0.00010646425625098704
+Agentype_Municipal police,1,Random Forest,0.005948868971380897
+Agentype_Primary federal LE,1,Random Forest,8.108179662832941e-07
+Agentype_Primary state LE,1,Random Forest,0.0002652901864054497
+Agentype_Regional police,1,Random Forest,6.127942780828334e-07
+Agentype_Sheriff,1,Random Forest,0.0033187818080165424
+Agentype_Special police,1,Random Forest,1.7556864469268888e-06
+Agentype_Tribal,1,Random Forest,1.4485266904405796e-06
+Month_April,1,Random Forest,3.515836231360026e-05
+Month_August,1,Random Forest,3.173533021628895e-05
+Month_December,1,Random Forest,9.762119818517017e-05
+Month_February,1,Random Forest,8.845404954785364e-05
+Month_January,1,Random Forest,5.2248074013097394e-05
+Month_July,1,Random Forest,3.089247633528726e-05
+Month_June,1,Random Forest,3.614657730870596e-05
+Month_March,1,Random Forest,3.3604534894357735e-05
+Month_May,1,Random Forest,2.9967334126769326e-05
+Month_November,1,Random Forest,7.061092951112613e-05
+Month_October,1,Random Forest,3.838734467671435e-05
+Month_September,1,Random Forest,3.297935600633708e-05
+VicSex_Female,1,Random Forest,0.008191309957350906
+VicSex_Male,1,Random Forest,0.005412888823365719
+VicSex_Unknown,1,Random Forest,6.818132496163125e-06
+VicRace_American Indian or Alaskan Native,1,Random Forest,9.712861970275831e-06
+VicRace_Asian,1,Random Forest,1.3593412647142064e-05
+VicRace_Black,1,Random Forest,0.0059564078960593885
+VicRace_Native Hawaiian or Pacific Islander,1,Random Forest,6.747091712869391e-07
+VicRace_Unknown,1,Random Forest,2.445903887286643e-05
+VicRace_White,1,Random Forest,0.0057647200351414385
+Weapon_Asphyxiation - includes death by gas,1,Random Forest,9.484784862149821e-06
+"Weapon_Blunt object - hammer, club, etc",1,Random Forest,0.00014538476135672848
+Weapon_Drowning,1,Random Forest,3.5598851824930793e-06
+Weapon_Explosives,1,Random Forest,2.0792843855418226e-06
+Weapon_Fire,1,Random Forest,5.71531203226677e-05
+"Weapon_Firearm, type not stated",1,Random Forest,0.010459690867903054
+"Weapon_Handgun - pistol, revolver, etc",1,Random Forest,0.0013255835818530278
+Weapon_Knife or cutting instrument,1,Random Forest,0.005472839815287522
+"Weapon_Narcotics or drugs, sleeping pills",1,Random Forest,1.1727016259995262e-05
+Weapon_Other gun,1,Random Forest,2.7000923089472402e-05
+Weapon_Other or type unknown,1,Random Forest,0.002176095397136931
+"Weapon_Personal weapons, includes beating",1,Random Forest,0.002092346342085847
+Weapon_Poison - does not include gas,1,Random Forest,1.043647164809012e-06
+Weapon_Pushed or thrown out window,1,Random Forest,8.104549388911647e-07
+Weapon_Rifle,1,Random Forest,0.0009450556225214774
+Weapon_Shotgun,1,Random Forest,0.0014217898766105237
+Weapon_Strangulation - hanging,1,Random Forest,0.0004326854457526838
+Weapon_Weapon Not Reported,1,Random Forest,3.874127881882961e-05
+Circumstance_All other manslaughter by negligence,1,Random Forest,9.610542812932313e-06
+Circumstance_All suspected felony type,1,Random Forest,0.003985263926988795
+Circumstance_Argument over money or property,1,Random Forest,0.0026411785561409875
+Circumstance_Arson,1,Random Forest,0.0001669587045990844
+Circumstance_Brawl due to influence of alcohol,1,Random Forest,0.0024322657564329535
+Circumstance_Brawl due to influence of narcotics,1,Random Forest,6.977636482667662e-05
+Circumstance_Burglary,1,Random Forest,3.4303461063575746e-05
+Circumstance_Child killed by babysitter,1,Random Forest,4.0143631523429e-05
+Circumstance_Circumstances undetermined,1,Random Forest,0.08381055373690842
+Circumstance_Felon killed by police,1,Random Forest,0.0020625342061772562
+Circumstance_Felon killed by private citizen,1,Random Forest,0.004079304915206084
+Circumstance_Gambling,1,Random Forest,4.808253956181042e-06
+Circumstance_Gangland killings,1,Random Forest,0.00012697975461301993
+Circumstance_Institutional killings,1,Random Forest,1.0710963049207044e-05
+Circumstance_Juvenile gang killings,1,Random Forest,0.0028876979701746444
+Circumstance_Larceny,1,Random Forest,3.908684975590899e-06
+Circumstance_Lovers triangle,1,Random Forest,0.002823787439786096
+Circumstance_Motor vehicle theft,1,Random Forest,1.5632340772433517e-06
+Circumstance_Narcotic drug laws,1,Random Forest,0.0008657977322910729
+Circumstance_Other,1,Random Forest,0.012414305308307293
+Circumstance_Other - not specified,1,Random Forest,0.0013396541669618955
+Circumstance_Other arguments,1,Random Forest,0.06304060374184324
+Circumstance_Other negligent handling of gun,1,Random Forest,3.023590937009875e-07
+Circumstance_Other sex offense,1,Random Forest,4.002800986096149e-06
+Circumstance_Prostitution and commercialized vice,1,Random Forest,1.6717836735070797e-06
+Circumstance_Rape,1,Random Forest,0.0001061066709044121
+Circumstance_Robbery,1,Random Forest,0.002299306684610653
+Circumstance_Sniper attack,1,Random Forest,3.204566810458285e-06
+Year,1,XGBoost,0.18337638676166534
+VicAge,1,XGBoost,0.11494423449039459
+VicCount,1,XGBoost,0.0318441316485405
+OffCount,1,XGBoost,0.45842599868774414
+Monthly_Overlap,1,XGBoost,0.1136336699128151
+FTSWORN,1,XGBoost,0.04819884151220322
+PTSWORN,1,XGBoost,0.007438231259584427
+TOTFTEMP,1,XGBoost,0.05886669456958771
+OPBUDGET,1,XGBoost,0.06899639964103699
+DET_SWN,1,XGBoost,0.056616026908159256
+PERS_TRN_ACAD,1,XGBoost,0.05348192900419235
+PERS_TRN_INSVC,1,XGBoost,0.03964841738343239
+PERS_EDU_MIN,1,XGBoost,0.008155714720487595
+PovertyRate,1,XGBoost,0.05973814055323601
+UnemploymentRate,1,XGBoost,0.10936500132083893
+State_Alabama,1,XGBoost,0.006985856220126152
+State_Alaska,1,XGBoost,2.9287415600265376e-05
+State_Arizona,1,XGBoost,0.002505828393623233
+State_Arkansas,1,XGBoost,0.00436090724542737
+State_California,1,XGBoost,0.12674646079540253
+State_Colorado,1,XGBoost,0.0034083996433764696
+State_Connecticut,1,XGBoost,0.0016786075429990888
+State_Delaware,1,XGBoost,0.0017370178829878569
+State_District of Columbia,1,XGBoost,0.008731710724532604
+State_Florida,1,XGBoost,0.014426913112401962
+State_Georgia,1,XGBoost,0.006015128456056118
+State_Hawaii,1,XGBoost,1.0316998668713495e-05
+State_Idaho,1,XGBoost,0.000685569946654141
+State_Illinois,1,XGBoost,0.00460357591509819
+State_Indiana,1,XGBoost,0.004643946886062622
+State_Iowa,1,XGBoost,0.0016368096694350243
+State_Kansas,1,XGBoost,0.0038434509187936783
+State_Kentucky,1,XGBoost,0.0017448397120460868
+State_Louisiana,1,XGBoost,0.004502953961491585
+State_Maine,1,XGBoost,0.0007804540800862014
+State_Maryland,1,XGBoost,0.002709152875468135
+State_Massachusetts,1,XGBoost,0.0011862118262797594
+State_Michigan,1,XGBoost,0.008544868789613247
+State_Minnesota,1,XGBoost,0.0028473357670009136
+State_Mississippi,1,XGBoost,0.004904359113425016
+State_Missouri,1,XGBoost,0.0014427104033529758
+State_Montana,1,XGBoost,0.00034060038160532713
+State_Nebraska,1,XGBoost,0.0
+State_Nevada,1,XGBoost,0.0020292673725634813
+State_New Hampshire,1,XGBoost,0.0
+State_New Jersey,1,XGBoost,0.0029637967236340046
+State_New Mexico,1,XGBoost,0.0014036197680979967
+State_New York,1,XGBoost,0.009538022801280022
+State_North Carolina,1,XGBoost,0.001433356897905469
+State_North Dakota,1,XGBoost,0.00035165384178981185
+State_Ohio,1,XGBoost,0.002745605306699872
+State_Oklahoma,1,XGBoost,0.0008110153139568865
+State_Oregon,1,XGBoost,1.3835124264005572e-05
+State_Pennsylvania,1,XGBoost,0.011684698984026909
+State_Rhode Island,1,XGBoost,0.0
+State_South Carolina,1,XGBoost,0.009962891228497028
+State_South Dakota,1,XGBoost,0.0007504704408347607
+State_Tennessee,1,XGBoost,0.013736939989030361
+State_Texas,1,XGBoost,0.018300067633390427
+State_Utah,1,XGBoost,0.0
+State_Vermont,1,XGBoost,0.0
+State_Virginia,1,XGBoost,0.009141144342720509
+State_Washington,1,XGBoost,0.001984415343031287
+State_West Virginia,1,XGBoost,0.0032777145970612764
+State_Wisconsin,1,XGBoost,0.0012590469559654593
+State_Wyoming,1,XGBoost,0.0
+Agentype_County police,1,XGBoost,0.0002683891507331282
+Agentype_Municipal police,1,XGBoost,0.03349145129323006
+Agentype_Primary federal LE,1,XGBoost,0.0
+Agentype_Primary state LE,1,XGBoost,0.0030312584713101387
+Agentype_Regional police,1,XGBoost,5.110916026751511e-05
+Agentype_Sheriff,1,XGBoost,0.013999633491039276
+Agentype_Special police,1,XGBoost,0.0
+Agentype_Tribal,1,XGBoost,2.2572450689040124e-05
+Month_April,1,XGBoost,0.001691867015324533
+Month_August,1,XGBoost,0.00032252343953587115
+Month_December,1,XGBoost,0.023119976744055748
+Month_February,1,XGBoost,0.006928899325430393
+Month_January,1,XGBoost,0.005442031659185886
+Month_July,1,XGBoost,0.000405683385906741
+Month_June,1,XGBoost,0.0003906412166543305
+Month_March,1,XGBoost,0.00033418714883737266
+Month_May,1,XGBoost,0.0005626567872241139
+Month_November,1,XGBoost,0.0157588142901659
+Month_October,1,XGBoost,0.008329752832651138
+Month_September,1,XGBoost,0.0029115546494722366
+VicSex_Female,1,XGBoost,0.1480405181646347
+VicSex_Male,1,XGBoost,0.004096576478332281
+VicSex_Unknown,1,XGBoost,0.0007452202844433486
+VicRace_American Indian or Alaskan Native,1,XGBoost,0.00023459074145648628
+VicRace_Asian,1,XGBoost,0.0007612200570292771
+VicRace_Black,1,XGBoost,0.03480949625372887
+VicRace_Native Hawaiian or Pacific Islander,1,XGBoost,0.0
+VicRace_Unknown,1,XGBoost,0.001886129379272461
+VicRace_White,1,XGBoost,0.04684699326753616
+Weapon_Asphyxiation - includes death by gas,1,XGBoost,0.0010912182042375207
+"Weapon_Blunt object - hammer, club, etc",1,XGBoost,0.008002251386642456
+Weapon_Drowning,1,XGBoost,0.00042921811109408736
+Weapon_Explosives,1,XGBoost,0.0003732439945451915
+Weapon_Fire,1,XGBoost,0.0004004419897682965
+"Weapon_Firearm, type not stated",1,XGBoost,0.10650862008333206
+"Weapon_Handgun - pistol, revolver, etc",1,XGBoost,0.029351651668548584
+Weapon_Knife or cutting instrument,1,XGBoost,0.07269149273633957
+"Weapon_Narcotics or drugs, sleeping pills",1,XGBoost,0.0006293489714153111
+Weapon_Other gun,1,XGBoost,0.006482399068772793
+Weapon_Other or type unknown,1,XGBoost,0.05210206285119057
+"Weapon_Personal weapons, includes beating",1,XGBoost,0.025378307327628136
+Weapon_Poison - does not include gas,1,XGBoost,9.809942275751382e-05
+Weapon_Pushed or thrown out window,1,XGBoost,8.149779023369774e-05
+Weapon_Rifle,1,XGBoost,0.023882823064923286
+Weapon_Shotgun,1,XGBoost,0.03365565463900566
+Weapon_Strangulation - hanging,1,XGBoost,0.009175644256174564
+Weapon_Weapon Not Reported,1,XGBoost,0.002879899460822344
+Circumstance_All other manslaughter by negligence,1,XGBoost,0.002017202554270625
+Circumstance_All suspected felony type,1,XGBoost,0.047600679099559784
+Circumstance_Argument over money or property,1,XGBoost,0.05596715211868286
+Circumstance_Arson,1,XGBoost,0.006733417510986328
+Circumstance_Brawl due to influence of alcohol,1,XGBoost,0.04915221408009529
+Circumstance_Brawl due to influence of narcotics,1,XGBoost,0.0065456959418952465
+Circumstance_Burglary,1,XGBoost,0.00078691600356251
+Circumstance_Child killed by babysitter,1,XGBoost,0.004139977041631937
+Circumstance_Circumstances undetermined,1,XGBoost,0.6732478737831116
+Circumstance_Felon killed by police,1,XGBoost,0.06315381079912186
+Circumstance_Felon killed by private citizen,1,XGBoost,0.07178808748722076
+Circumstance_Gambling,1,XGBoost,0.0033265287056565285
+Circumstance_Gangland killings,1,XGBoost,0.007395915687084198
+Circumstance_Institutional killings,1,XGBoost,0.0022095630411058664
+Circumstance_Juvenile gang killings,1,XGBoost,0.015762608498334885
+Circumstance_Larceny,1,XGBoost,0.0015197166940197349
+Circumstance_Lovers triangle,1,XGBoost,0.06109139695763588
+Circumstance_Motor vehicle theft,1,XGBoost,0.0010365820489823818
+Circumstance_Narcotic drug laws,1,XGBoost,0.004534548614174128
+Circumstance_Other,1,XGBoost,0.1151721253991127
+Circumstance_Other - not specified,1,XGBoost,0.015831321477890015
+Circumstance_Other arguments,1,XGBoost,0.5200626254081726
+Circumstance_Other negligent handling of gun,1,XGBoost,0.0007762634777463973
+Circumstance_Other sex offense,1,XGBoost,0.0011160452850162983
+Circumstance_Prostitution and commercialized vice,1,XGBoost,0.0
+Circumstance_Rape,1,XGBoost,0.00020567899628076702
+Circumstance_Robbery,1,XGBoost,0.025144057348370552
+Circumstance_Sniper attack,1,XGBoost,0.0008428433793596923
+Year,2,Random Forest,0.004628359918999288
+VicAge,2,Random Forest,0.0047818852070306015
+VicCount,2,Random Forest,0.0008046664278288262
+OffCount,2,Random Forest,0.035594807390782246
+Monthly_Overlap,2,Random Forest,0.022596813431089047
+FTSWORN,2,Random Forest,0.008245529239563239
+PTSWORN,2,Random Forest,0.0008295639926351143
+TOTFTEMP,2,Random Forest,0.010734316143188578
+OPBUDGET,2,Random Forest,0.010134181913640091
+DET_SWN,2,Random Forest,0.009663449789487365
+PERS_TRN_ACAD,2,Random Forest,0.003421214549225753
+PERS_TRN_INSVC,2,Random Forest,0.0017833241286193727
+PERS_EDU_MIN,2,Random Forest,0.0014248551544527664
+PovertyRate,2,Random Forest,0.002344231596485481
+UnemploymentRate,2,Random Forest,0.013424857249035957
+State_Alabama,2,Random Forest,0.00014996863838161675
+State_Alaska,2,Random Forest,1.6011244061058542e-06
+State_Arizona,2,Random Forest,3.859351433588529e-05
+State_Arkansas,2,Random Forest,4.044526814076483e-05
+State_California,2,Random Forest,0.0074624995776913705
+State_Colorado,2,Random Forest,3.922602112042457e-05
+State_Connecticut,2,Random Forest,3.376809315440733e-05
+State_Delaware,2,Random Forest,1.324115137355691e-06
+State_District of Columbia,2,Random Forest,0.0006813259823466379
+State_Florida,2,Random Forest,0.0003413298275004771
+State_Georgia,2,Random Forest,0.00010501217681093397
+State_Hawaii,2,Random Forest,4.677994264570148e-06
+State_Idaho,2,Random Forest,1.2313048986815977e-05
+State_Illinois,2,Random Forest,0.0002599716266309164
+State_Indiana,2,Random Forest,9.249584363737274e-05
+State_Iowa,2,Random Forest,1.5801743298042687e-05
+State_Kansas,2,Random Forest,2.6115718980060878e-05
+State_Kentucky,2,Random Forest,1.2142100269873056e-05
+State_Louisiana,2,Random Forest,7.538541137469188e-05
+State_Maine,2,Random Forest,3.202624463481203e-06
+State_Maryland,2,Random Forest,0.00017629441421673916
+State_Massachusetts,2,Random Forest,3.426275324591983e-05
+State_Michigan,2,Random Forest,6.944143114286318e-05
+State_Minnesota,2,Random Forest,2.0226131134263752e-05
+State_Mississippi,2,Random Forest,0.00010540094355988665
+State_Missouri,2,Random Forest,0.00020684209723128097
+State_Montana,2,Random Forest,1.7191602881686378e-06
+State_Nebraska,2,Random Forest,3.7537127748356464e-06
+State_Nevada,2,Random Forest,3.800676440476851e-05
+State_New Hampshire,2,Random Forest,9.69113765072374e-07
+State_New Jersey,2,Random Forest,0.00015553637398133004
+State_New Mexico,2,Random Forest,7.734921823061344e-06
+State_New York,2,Random Forest,0.0008695926163918959
+State_North Carolina,2,Random Forest,0.00011793902977516843
+State_North Dakota,2,Random Forest,8.133986924427046e-07
+State_Ohio,2,Random Forest,3.224077279350776e-05
+State_Oklahoma,2,Random Forest,4.992003914909155e-05
+State_Oregon,2,Random Forest,4.609555889798712e-06
+State_Pennsylvania,2,Random Forest,0.0001235688932758648
+State_Rhode Island,2,Random Forest,1.6133746310384588e-06
+State_South Carolina,2,Random Forest,0.0004090604264429005
+State_South Dakota,2,Random Forest,2.1792794281153557e-06
+State_Tennessee,2,Random Forest,0.00033855599390266854
+State_Texas,2,Random Forest,0.001684370446189958
+State_Utah,2,Random Forest,1.2213435924303385e-05
+State_Vermont,2,Random Forest,4.946465450604252e-07
+State_Virginia,2,Random Forest,0.00011391227752520762
+State_Washington,2,Random Forest,2.7149557640443838e-05
+State_West Virginia,2,Random Forest,4.074037255880212e-05
+State_Wisconsin,2,Random Forest,4.46796406920113e-05
+State_Wyoming,2,Random Forest,4.151662976222115e-07
+Agentype_County police,2,Random Forest,0.00011199419279523186
+Agentype_Municipal police,2,Random Forest,0.005468058509955055
+Agentype_Primary federal LE,2,Random Forest,1.5769402798322365e-06
+Agentype_Primary state LE,2,Random Forest,0.0002826208520503428
+Agentype_Regional police,2,Random Forest,7.57263652467268e-07
+Agentype_Sheriff,2,Random Forest,0.0034935832955640916
+Agentype_Special police,2,Random Forest,2.191519716422082e-06
+Agentype_Tribal,2,Random Forest,4.5379513118695576e-07
+Month_April,2,Random Forest,4.492129724770204e-05
+Month_August,2,Random Forest,3.151317295200951e-05
+Month_December,2,Random Forest,9.564881962877871e-05
+Month_February,2,Random Forest,6.075949670526886e-05
+Month_January,2,Random Forest,4.6357748960813206e-05
+Month_July,2,Random Forest,3.0369611884087527e-05
+Month_June,2,Random Forest,2.591178734416122e-05
+Month_March,2,Random Forest,4.411285909633035e-05
+Month_May,2,Random Forest,3.412741002180543e-05
+Month_November,2,Random Forest,6.357845302407041e-05
+Month_October,2,Random Forest,4.094919907147726e-05
+Month_September,2,Random Forest,3.431801879207611e-05
+VicSex_Female,2,Random Forest,0.007517746332229341
+VicSex_Male,2,Random Forest,0.006646140825344077
+VicSex_Unknown,2,Random Forest,7.913355422819626e-06
+VicRace_American Indian or Alaskan Native,2,Random Forest,1.1242618864142881e-05
+VicRace_Asian,2,Random Forest,2.4230668019224518e-05
+VicRace_Black,2,Random Forest,0.004869835652527997
+VicRace_Native Hawaiian or Pacific Islander,2,Random Forest,4.311372258864467e-07
+VicRace_Unknown,2,Random Forest,2.4966496095904053e-05
+VicRace_White,2,Random Forest,0.005536138100732465
+Weapon_Asphyxiation - includes death by gas,2,Random Forest,5.8096979658275255e-06
+"Weapon_Blunt object - hammer, club, etc",2,Random Forest,0.000130630497429952
+Weapon_Drowning,2,Random Forest,3.4933094539403857e-06
+Weapon_Explosives,2,Random Forest,1.838322073288822e-06
+Weapon_Fire,2,Random Forest,7.363703736524467e-05
+"Weapon_Firearm, type not stated",2,Random Forest,0.010322762772955388
+"Weapon_Handgun - pistol, revolver, etc",2,Random Forest,0.001251121749692384
+Weapon_Knife or cutting instrument,2,Random Forest,0.005277925131093664
+"Weapon_Narcotics or drugs, sleeping pills",2,Random Forest,1.6235896033767928e-05
+Weapon_Other gun,2,Random Forest,4.3047781771965316e-05
+Weapon_Other or type unknown,2,Random Forest,0.002054149889297312
+"Weapon_Personal weapons, includes beating",2,Random Forest,0.0018640881618236576
+Weapon_Poison - does not include gas,2,Random Forest,1.0351719638886236e-06
+Weapon_Pushed or thrown out window,2,Random Forest,5.707887057380604e-07
+Weapon_Rifle,2,Random Forest,0.000739215107803098
+Weapon_Shotgun,2,Random Forest,0.0012466413850484824
+Weapon_Strangulation - hanging,2,Random Forest,0.0002675917210945819
+Weapon_Weapon Not Reported,2,Random Forest,3.3600483427009934e-05
+Circumstance_All other manslaughter by negligence,2,Random Forest,6.2399481382008104e-06
+Circumstance_All suspected felony type,2,Random Forest,0.00443264611843677
+Circumstance_Argument over money or property,2,Random Forest,0.002860387906598659
+Circumstance_Arson,2,Random Forest,0.00017463027292328003
+Circumstance_Brawl due to influence of alcohol,2,Random Forest,0.002536943650761298
+Circumstance_Brawl due to influence of narcotics,2,Random Forest,5.579002606119054e-05
+Circumstance_Burglary,2,Random Forest,6.658382182673599e-05
+Circumstance_Child killed by babysitter,2,Random Forest,3.523996817026385e-05
+Circumstance_Circumstances undetermined,2,Random Forest,0.08659685450118058
+Circumstance_Felon killed by police,2,Random Forest,0.002816252253725676
+Circumstance_Felon killed by private citizen,2,Random Forest,0.0036904680476664226
+Circumstance_Gambling,2,Random Forest,3.986580231930311e-06
+Circumstance_Gangland killings,2,Random Forest,0.00015671025781813133
+Circumstance_Institutional killings,2,Random Forest,5.675402993631177e-06
+Circumstance_Juvenile gang killings,2,Random Forest,0.0023359626462815747
+Circumstance_Larceny,2,Random Forest,2.7626999508105676e-06
+Circumstance_Lovers triangle,2,Random Forest,0.002368527804585847
+Circumstance_Motor vehicle theft,2,Random Forest,1.8140237245110777e-06
+Circumstance_Narcotic drug laws,2,Random Forest,0.0010556883657594658
+Circumstance_Other,2,Random Forest,0.012544657688649074
+Circumstance_Other - not specified,2,Random Forest,0.0015086027042870319
+Circumstance_Other arguments,2,Random Forest,0.06662074137050618
+Circumstance_Other negligent handling of gun,2,Random Forest,9.419862122733331e-07
+Circumstance_Other sex offense,2,Random Forest,5.6884129643036e-06
+Circumstance_Prostitution and commercialized vice,2,Random Forest,1.5043626815495886e-06
+Circumstance_Rape,2,Random Forest,8.244106623399323e-05
+Circumstance_Robbery,2,Random Forest,0.0026917303574785956
+Circumstance_Sniper attack,2,Random Forest,2.603676627725528e-06
+Year,2,XGBoost,0.180010125041008
+VicAge,2,XGBoost,0.11234835535287857
+VicCount,2,XGBoost,0.034648794680833817
+OffCount,2,XGBoost,0.45831021666526794
+Monthly_Overlap,2,XGBoost,0.116316057741642
+FTSWORN,2,XGBoost,0.045291922986507416
+PTSWORN,2,XGBoost,0.006529835518449545
+TOTFTEMP,2,XGBoost,0.05958147719502449
+OPBUDGET,2,XGBoost,0.06536846607923508
+DET_SWN,2,XGBoost,0.05548136308789253
+PERS_TRN_ACAD,2,XGBoost,0.06322848051786423
+PERS_TRN_INSVC,2,XGBoost,0.0388357937335968
+PERS_EDU_MIN,2,XGBoost,0.006391365081071854
+PovertyRate,2,XGBoost,0.05821113660931587
+UnemploymentRate,2,XGBoost,0.10923736542463303
+State_Alabama,2,XGBoost,0.008055262267589569
+State_Alaska,2,XGBoost,0.0
+State_Arizona,2,XGBoost,0.0030056890100240707
+State_Arkansas,2,XGBoost,0.006049308925867081
+State_California,2,XGBoost,0.11998218297958374
+State_Colorado,2,XGBoost,0.0022319641429930925
+State_Connecticut,2,XGBoost,0.001751344301737845
+State_Delaware,2,XGBoost,0.0011726710945367813
+State_District of Columbia,2,XGBoost,0.0071643805131316185
+State_Florida,2,XGBoost,0.011277490295469761
+State_Georgia,2,XGBoost,0.0065149469301104546
+State_Hawaii,2,XGBoost,0.00018082937458530068
+State_Idaho,2,XGBoost,0.00038902563392184675
+State_Illinois,2,XGBoost,0.0034754963126033545
+State_Indiana,2,XGBoost,0.003915002569556236
+State_Iowa,2,XGBoost,0.0015631616115570068
+State_Kansas,2,XGBoost,0.003921139985322952
+State_Kentucky,2,XGBoost,0.0020083305425941944
+State_Louisiana,2,XGBoost,0.003558291355147958
+State_Maine,2,XGBoost,0.0005754472804255784
+State_Maryland,2,XGBoost,0.0028967303223907948
+State_Massachusetts,2,XGBoost,0.002436538925394416
+State_Michigan,2,XGBoost,0.004208848346024752
+State_Minnesota,2,XGBoost,0.0017863583052530885
+State_Mississippi,2,XGBoost,0.006208122242242098
+State_Missouri,2,XGBoost,0.0013981161173433065
+State_Montana,2,XGBoost,0.00033137210994027555
+State_Nebraska,2,XGBoost,0.0
+State_Nevada,2,XGBoost,0.0034431794192641973
+State_New Hampshire,2,XGBoost,0.0
+State_New Jersey,2,XGBoost,0.002145597478374839
+State_New Mexico,2,XGBoost,0.0019009136594831944
+State_New York,2,XGBoost,0.009964692406356335
+State_North Carolina,2,XGBoost,0.002232990926131606
+State_North Dakota,2,XGBoost,0.000339897524099797
+State_Ohio,2,XGBoost,0.0028177250642329454
+State_Oklahoma,2,XGBoost,0.0015017687110230327
+State_Oregon,2,XGBoost,2.564300302765332e-05
+State_Pennsylvania,2,XGBoost,0.01317756436765194
+State_Rhode Island,2,XGBoost,0.0
+State_South Carolina,2,XGBoost,0.00801121722906828
+State_South Dakota,2,XGBoost,0.00046972159179858863
+State_Tennessee,2,XGBoost,0.01150493510067463
+State_Texas,2,XGBoost,0.021126942709088326
+State_Utah,2,XGBoost,0.0005171818775124848
+State_Vermont,2,XGBoost,8.000307570910081e-05
+State_Virginia,2,XGBoost,0.008364365436136723
+State_Washington,2,XGBoost,0.0016570668667554855
+State_West Virginia,2,XGBoost,0.0037833349779248238
+State_Wisconsin,2,XGBoost,0.0013832678087055683
+State_Wyoming,2,XGBoost,0.00019869527022819966
+Agentype_County police,2,XGBoost,0.000760418944992125
+Agentype_Municipal police,2,XGBoost,0.03598262369632721
+Agentype_Primary federal LE,2,XGBoost,0.0
+Agentype_Primary state LE,2,XGBoost,0.004044663161039352
+Agentype_Regional police,2,XGBoost,0.0
+Agentype_Sheriff,2,XGBoost,0.013815799728035927
+Agentype_Special police,2,XGBoost,7.312870002351701e-05
+Agentype_Tribal,2,XGBoost,3.252924216212705e-05
+Month_April,2,XGBoost,0.002519673900678754
+Month_August,2,XGBoost,0.00029784542857669294
+Month_December,2,XGBoost,0.02560356631875038
+Month_February,2,XGBoost,0.007741074077785015
+Month_January,2,XGBoost,0.00398425105959177
+Month_July,2,XGBoost,0.0008209439693018794
+Month_June,2,XGBoost,0.0003320521500427276
+Month_March,2,XGBoost,0.0004552376631181687
+Month_May,2,XGBoost,0.000452253851108253
+Month_November,2,XGBoost,0.017918357625603676
+Month_October,2,XGBoost,0.009154194965958595
+Month_September,2,XGBoost,0.0039121415466070175
+VicSex_Female,2,XGBoost,0.14757812023162842
+VicSex_Male,2,XGBoost,0.008662913925945759
+VicSex_Unknown,2,XGBoost,0.0009376425296068192
+VicRace_American Indian or Alaskan Native,2,XGBoost,0.0003011793887708336
+VicRace_Asian,2,XGBoost,8.70701769599691e-05
+VicRace_Black,2,XGBoost,0.039999574422836304
+VicRace_Native Hawaiian or Pacific Islander,2,XGBoost,0.0
+VicRace_Unknown,2,XGBoost,0.002535430248826742
+VicRace_White,2,XGBoost,0.037627603858709335
+Weapon_Asphyxiation - includes death by gas,2,XGBoost,0.0009664061944931746
+"Weapon_Blunt object - hammer, club, etc",2,XGBoost,0.005166876129806042
+Weapon_Drowning,2,XGBoost,0.0002172073145629838
+Weapon_Explosives,2,XGBoost,0.00029980592080391943
+Weapon_Fire,2,XGBoost,0.0005184021429158747
+"Weapon_Firearm, type not stated",2,XGBoost,0.1048051118850708
+"Weapon_Handgun - pistol, revolver, etc",2,XGBoost,0.025674695149064064
+Weapon_Knife or cutting instrument,2,XGBoost,0.08474850654602051
+"Weapon_Narcotics or drugs, sleeping pills",2,XGBoost,0.0011829829309135675
+Weapon_Other gun,2,XGBoost,0.005609746556729078
+Weapon_Other or type unknown,2,XGBoost,0.0495254285633564
+"Weapon_Personal weapons, includes beating",2,XGBoost,0.029034217819571495
+Weapon_Poison - does not include gas,2,XGBoost,0.00036731554428115487
+Weapon_Pushed or thrown out window,2,XGBoost,0.00019006447109859437
+Weapon_Rifle,2,XGBoost,0.028604120016098022
+Weapon_Shotgun,2,XGBoost,0.037221215665340424
+Weapon_Strangulation - hanging,2,XGBoost,0.008838935755193233
+Weapon_Weapon Not Reported,2,XGBoost,0.0020611502695828676
+Circumstance_All other manslaughter by negligence,2,XGBoost,0.0018442767905071378
+Circumstance_All suspected felony type,2,XGBoost,0.04926939308643341
+Circumstance_Argument over money or property,2,XGBoost,0.055984098464250565
+Circumstance_Arson,2,XGBoost,0.007406117860227823
+Circumstance_Brawl due to influence of alcohol,2,XGBoost,0.0474766306579113
+Circumstance_Brawl due to influence of narcotics,2,XGBoost,0.005172719247639179
+Circumstance_Burglary,2,XGBoost,0.0022188243456184864
+Circumstance_Child killed by babysitter,2,XGBoost,0.0039008869789540768
+Circumstance_Circumstances undetermined,2,XGBoost,0.677287220954895
+Circumstance_Felon killed by police,2,XGBoost,0.0589708611369133
+Circumstance_Felon killed by private citizen,2,XGBoost,0.07134181261062622
+Circumstance_Gambling,2,XGBoost,0.0031319689005613327
+Circumstance_Gangland killings,2,XGBoost,0.009283929131925106
+Circumstance_Institutional killings,2,XGBoost,0.002119868528097868
+Circumstance_Juvenile gang killings,2,XGBoost,0.022302186116576195
+Circumstance_Larceny,2,XGBoost,0.001175725250504911
+Circumstance_Lovers triangle,2,XGBoost,0.060481347143650055
+Circumstance_Motor vehicle theft,2,XGBoost,0.000876093574333936
+Circumstance_Narcotic drug laws,2,XGBoost,0.009595593437552452
+Circumstance_Other,2,XGBoost,0.10468072444200516
+Circumstance_Other - not specified,2,XGBoost,0.024921445176005363
+Circumstance_Other arguments,2,XGBoost,0.49905383586883545
+Circumstance_Other negligent handling of gun,2,XGBoost,0.0007811692776158452
+Circumstance_Other sex offense,2,XGBoost,0.0011024780105799437
+Circumstance_Prostitution and commercialized vice,2,XGBoost,0.00017427366401534528
+Circumstance_Rape,2,XGBoost,0.0017058184603229165
+Circumstance_Robbery,2,XGBoost,0.030712515115737915
+Circumstance_Sniper attack,2,XGBoost,0.0010193079942837358
+Year,3,Random Forest,0.003768094511606136
+VicAge,3,Random Forest,0.004828189933172946
+VicCount,3,Random Forest,0.000709760191554201
+OffCount,3,Random Forest,0.03567070166848434
+Monthly_Overlap,3,Random Forest,0.022158581967204247
+FTSWORN,3,Random Forest,0.007170927642743613
+PTSWORN,3,Random Forest,0.0005682896689140301
+TOTFTEMP,3,Random Forest,0.010106922404770137
+OPBUDGET,3,Random Forest,0.010976879205969063
+DET_SWN,3,Random Forest,0.010506258346848074
+PERS_TRN_ACAD,3,Random Forest,0.003568479423718552
+PERS_TRN_INSVC,3,Random Forest,0.0017846110150716008
+PERS_EDU_MIN,3,Random Forest,0.0011703772359136755
+PovertyRate,3,Random Forest,0.0030818734668042803
+UnemploymentRate,3,Random Forest,0.014255435331223048
+State_Alabama,3,Random Forest,0.00011460338448062467
+State_Alaska,3,Random Forest,3.8676200369319805e-06
+State_Arizona,3,Random Forest,2.7886087224787747e-05
+State_Arkansas,3,Random Forest,5.7736143410621056e-05
+State_California,3,Random Forest,0.007370918807661061
+State_Colorado,3,Random Forest,3.955294256620583e-05
+State_Connecticut,3,Random Forest,1.3059282119168777e-05
+State_Delaware,3,Random Forest,4.624796628174543e-06
+State_District of Columbia,3,Random Forest,0.0005656104736179626
+State_Florida,3,Random Forest,0.00034719939258874425
+State_Georgia,3,Random Forest,0.00012573038024817835
+State_Hawaii,3,Random Forest,5.2815696658686195e-06
+State_Idaho,3,Random Forest,8.804144852553608e-06
+State_Illinois,3,Random Forest,0.0002729091266749559
+State_Indiana,3,Random Forest,8.091286009292283e-05
+State_Iowa,3,Random Forest,4.658938982232411e-06
+State_Kansas,3,Random Forest,4.07338389573818e-05
+State_Kentucky,3,Random Forest,1.5647340105009813e-05
+State_Louisiana,3,Random Forest,7.491146359343694e-05
+State_Maine,3,Random Forest,6.187423127185811e-06
+State_Maryland,3,Random Forest,0.000155640058505998
+State_Massachusetts,3,Random Forest,1.4544399518579496e-05
+State_Michigan,3,Random Forest,8.786077280354448e-05
+State_Minnesota,3,Random Forest,1.8376162767047444e-05
+State_Mississippi,3,Random Forest,8.054672933182819e-05
+State_Missouri,3,Random Forest,0.00011857027664642458
+State_Montana,3,Random Forest,6.163217107434956e-07
+State_Nebraska,3,Random Forest,1.7409822277025132e-06
+State_Nevada,3,Random Forest,4.87623829745235e-05
+State_New Hampshire,3,Random Forest,4.3535003464685864e-07
+State_New Jersey,3,Random Forest,0.00012443742210977663
+State_New Mexico,3,Random Forest,1.5689267770025108e-05
+State_New York,3,Random Forest,0.0010516825508774961
+State_North Carolina,3,Random Forest,0.0001783389912471707
+State_North Dakota,3,Random Forest,3.4198315755840116e-06
+State_Ohio,3,Random Forest,4.2072212615087265e-05
+State_Oklahoma,3,Random Forest,6.459581520197037e-05
+State_Oregon,3,Random Forest,6.822177697653909e-06
+State_Pennsylvania,3,Random Forest,0.00012602563766836374
+State_Rhode Island,3,Random Forest,3.1405144378875194e-06
+State_South Carolina,3,Random Forest,0.0004400619445343043
+State_South Dakota,3,Random Forest,1.3343091762614646e-06
+State_Tennessee,3,Random Forest,0.0005519683640754754
+State_Texas,3,Random Forest,0.0012067110960819487
+State_Utah,3,Random Forest,9.336184104713549e-06
+State_Vermont,3,Random Forest,8.854117353710785e-07
+State_Virginia,3,Random Forest,7.532107501026625e-05
+State_Washington,3,Random Forest,2.753287903740514e-05
+State_West Virginia,3,Random Forest,2.8770088082744715e-05
+State_Wisconsin,3,Random Forest,4.463758680134538e-05
+State_Wyoming,3,Random Forest,1.1302708468229934e-06
+Agentype_County police,3,Random Forest,0.0001273491219175196
+Agentype_Municipal police,3,Random Forest,0.005044918230863814
+Agentype_Primary federal LE,3,Random Forest,2.3589664042598997e-07
+Agentype_Primary state LE,3,Random Forest,0.00026554597557171104
+Agentype_Regional police,3,Random Forest,6.278588645455182e-07
+Agentype_Sheriff,3,Random Forest,0.00341069712810398
+Agentype_Special police,3,Random Forest,4.318358621270151e-06
+Agentype_Tribal,3,Random Forest,7.082442619963026e-07
+Month_April,3,Random Forest,3.422246809166901e-05
+Month_August,3,Random Forest,3.129009490213885e-05
+Month_December,3,Random Forest,0.00011855125670918497
+Month_February,3,Random Forest,5.027413967704798e-05
+Month_January,3,Random Forest,4.0192428701630846e-05
+Month_July,3,Random Forest,3.387731188057314e-05
+Month_June,3,Random Forest,3.1226722755283244e-05
+Month_March,3,Random Forest,2.8570758569211107e-05
+Month_May,3,Random Forest,3.2492905191649026e-05
+Month_November,3,Random Forest,9.601927083058909e-05
+Month_October,3,Random Forest,3.3372227296692046e-05
+Month_September,3,Random Forest,3.267708946683979e-05
+VicSex_Female,3,Random Forest,0.00707546635620545
+VicSex_Male,3,Random Forest,0.0067969963886224186
+VicSex_Unknown,3,Random Forest,5.747782345518701e-06
+VicRace_American Indian or Alaskan Native,3,Random Forest,5.270701504308604e-06
+VicRace_Asian,3,Random Forest,3.887403316546582e-05
+VicRace_Black,3,Random Forest,0.00618348316668642
+VicRace_Native Hawaiian or Pacific Islander,3,Random Forest,2.445400461915194e-07
+VicRace_Unknown,3,Random Forest,2.5851949414000763e-05
+VicRace_White,3,Random Forest,0.006083872484774878
+Weapon_Asphyxiation - includes death by gas,3,Random Forest,4.309366390420199e-06
+"Weapon_Blunt object - hammer, club, etc",3,Random Forest,0.00012469071407922034
+Weapon_Drowning,3,Random Forest,3.05967855775e-06
+Weapon_Explosives,3,Random Forest,1.6303510455979177e-06
+Weapon_Fire,3,Random Forest,6.63327011143462e-05
+"Weapon_Firearm, type not stated",3,Random Forest,0.011550310107845716
+"Weapon_Handgun - pistol, revolver, etc",3,Random Forest,0.0017411930011962228
+Weapon_Knife or cutting instrument,3,Random Forest,0.0051183693794627574
+"Weapon_Narcotics or drugs, sleeping pills",3,Random Forest,7.379118868617891e-06
+Weapon_Other gun,3,Random Forest,3.580611102096697e-05
+Weapon_Other or type unknown,3,Random Forest,0.0022799719800742795
+"Weapon_Personal weapons, includes beating",3,Random Forest,0.0015492538007487666
+Weapon_Poison - does not include gas,3,Random Forest,7.958172249768912e-07
+Weapon_Pushed or thrown out window,3,Random Forest,9.383683950148435e-07
+Weapon_Rifle,3,Random Forest,0.0009768732533014083
+Weapon_Shotgun,3,Random Forest,0.001316118652795144
+Weapon_Strangulation - hanging,3,Random Forest,0.0003507587558214455
+Weapon_Weapon Not Reported,3,Random Forest,4.140338715017651e-05
+Circumstance_All other manslaughter by negligence,3,Random Forest,8.55031396574717e-06
+Circumstance_All suspected felony type,3,Random Forest,0.003976827860786774
+Circumstance_Argument over money or property,3,Random Forest,0.003000377761907501
+Circumstance_Arson,3,Random Forest,0.00011317022786037297
+Circumstance_Brawl due to influence of alcohol,3,Random Forest,0.002473822182657174
+Circumstance_Brawl due to influence of narcotics,3,Random Forest,5.0001863718506314e-05
+Circumstance_Burglary,3,Random Forest,6.68962868371228e-05
+Circumstance_Child killed by babysitter,3,Random Forest,5.240642349633795e-05
+Circumstance_Circumstances undetermined,3,Random Forest,0.07862062806678867
+Circumstance_Felon killed by police,3,Random Forest,0.0022854416159966925
+Circumstance_Felon killed by private citizen,3,Random Forest,0.003950805360349502
+Circumstance_Gambling,3,Random Forest,1.2152209818187194e-05
+Circumstance_Gangland killings,3,Random Forest,0.0001851357743944297
+Circumstance_Institutional killings,3,Random Forest,5.0533760780897385e-06
+Circumstance_Juvenile gang killings,3,Random Forest,0.002144415802828886
+Circumstance_Larceny,3,Random Forest,2.1826898723660847e-06
+Circumstance_Lovers triangle,3,Random Forest,0.002778424285724986
+Circumstance_Motor vehicle theft,3,Random Forest,2.462225922612912e-06
+Circumstance_Narcotic drug laws,3,Random Forest,0.000965350812655055
+Circumstance_Other,3,Random Forest,0.01438558184728379
+Circumstance_Other - not specified,3,Random Forest,0.001456121206688026
+Circumstance_Other arguments,3,Random Forest,0.06936881787424182
+Circumstance_Other negligent handling of gun,3,Random Forest,1.1777418777534177e-06
+Circumstance_Other sex offense,3,Random Forest,1.9490843596146925e-06
+Circumstance_Prostitution and commercialized vice,3,Random Forest,2.4179896344688356e-06
+Circumstance_Rape,3,Random Forest,6.936967259848444e-05
+Circumstance_Robbery,3,Random Forest,0.001978827067708233
+Circumstance_Sniper attack,3,Random Forest,1.5183471643084743e-06
+Year,3,XGBoost,0.17740188539028168
+VicAge,3,XGBoost,0.11753668636083603
+VicCount,3,XGBoost,0.03243876248598099
+OffCount,3,XGBoost,0.4578540027141571
+Monthly_Overlap,3,XGBoost,0.1103590652346611
+FTSWORN,3,XGBoost,0.06006497144699097
+PTSWORN,3,XGBoost,0.006708184257149696
+TOTFTEMP,3,XGBoost,0.0551132969558239
+OPBUDGET,3,XGBoost,0.033728331327438354
+DET_SWN,3,XGBoost,0.06610549986362457
+PERS_TRN_ACAD,3,XGBoost,0.06678545475006104
+PERS_TRN_INSVC,3,XGBoost,0.03379319608211517
+PERS_EDU_MIN,3,XGBoost,0.005353287793695927
+PovertyRate,3,XGBoost,0.048517514020204544
+UnemploymentRate,3,XGBoost,0.110367551445961
+State_Alabama,3,XGBoost,0.006403193809092045
+State_Alaska,3,XGBoost,0.00038881911314092577
+State_Arizona,3,XGBoost,0.0037025229539722204
+State_Arkansas,3,XGBoost,0.005365775432437658
+State_California,3,XGBoost,0.13130749762058258
+State_Colorado,3,XGBoost,0.0029134161304682493
+State_Connecticut,3,XGBoost,0.0019649886526167393
+State_Delaware,3,XGBoost,0.0018554276321083307
+State_District of Columbia,3,XGBoost,0.009172074496746063
+State_Florida,3,XGBoost,0.010748747736215591
+State_Georgia,3,XGBoost,0.004478787537664175
+State_Hawaii,3,XGBoost,0.00040701188845559955
+State_Idaho,3,XGBoost,0.0007962631643749774
+State_Illinois,3,XGBoost,0.0031541187781840563
+State_Indiana,3,XGBoost,0.003747560316696763
+State_Iowa,3,XGBoost,0.0018267573323100805
+State_Kansas,3,XGBoost,0.0039252303540706635
+State_Kentucky,3,XGBoost,0.0024985477793961763
+State_Louisiana,3,XGBoost,0.003455739701166749
+State_Maine,3,XGBoost,0.0005872814799658954
+State_Maryland,3,XGBoost,0.00044343661284074187
+State_Massachusetts,3,XGBoost,0.0020634804386645555
+State_Michigan,3,XGBoost,0.004280260764062405
+State_Minnesota,3,XGBoost,0.0030809028539806604
+State_Mississippi,3,XGBoost,0.005976709071546793
+State_Missouri,3,XGBoost,0.0013913309667259455
+State_Montana,3,XGBoost,0.0005474119097925723
+State_Nebraska,3,XGBoost,0.0
+State_Nevada,3,XGBoost,0.0032249661162495613
+State_New Hampshire,3,XGBoost,0.0
+State_New Jersey,3,XGBoost,0.003982343710958958
+State_New Mexico,3,XGBoost,0.0018147614318877459
+State_New York,3,XGBoost,0.011760837398469448
+State_North Carolina,3,XGBoost,0.0016184562118723989
+State_North Dakota,3,XGBoost,0.0005209626979194582
+State_Ohio,3,XGBoost,0.00167361821513623
+State_Oklahoma,3,XGBoost,0.0008066195296123624
+State_Oregon,3,XGBoost,0.0
+State_Pennsylvania,3,XGBoost,0.01190757006406784
+State_Rhode Island,3,XGBoost,0.0
+State_South Carolina,3,XGBoost,0.009737539105117321
+State_South Dakota,3,XGBoost,0.0006298015359789133
+State_Tennessee,3,XGBoost,0.015074352733790874
+State_Texas,3,XGBoost,0.021971946582198143
+State_Utah,3,XGBoost,0.0
+State_Vermont,3,XGBoost,4.033638833789155e-05
+State_Virginia,3,XGBoost,0.008337467908859253
+State_Washington,3,XGBoost,0.0021916856057941914
+State_West Virginia,3,XGBoost,0.003385437885299325
+State_Wisconsin,3,XGBoost,0.002262290334329009
+State_Wyoming,3,XGBoost,0.00036723248194903135
+Agentype_County police,3,XGBoost,0.0005460784304887056
+Agentype_Municipal police,3,XGBoost,0.019680093973875046
+Agentype_Primary federal LE,3,XGBoost,0.0
+Agentype_Primary state LE,3,XGBoost,0.005703090224415064
+Agentype_Regional police,3,XGBoost,0.0
+Agentype_Sheriff,3,XGBoost,0.025451628491282463
+Agentype_Special police,3,XGBoost,0.0
+Agentype_Tribal,3,XGBoost,2.3314070858759806e-05
+Month_April,3,XGBoost,0.004015306010842323
+Month_August,3,XGBoost,0.00037336297100409865
+Month_December,3,XGBoost,0.023397531360387802
+Month_February,3,XGBoost,0.007451056502759457
+Month_January,3,XGBoost,0.004679372534155846
+Month_July,3,XGBoost,0.0008395180921070278
+Month_June,3,XGBoost,0.00018315008492209017
+Month_March,3,XGBoost,0.0018806374864652753
+Month_May,3,XGBoost,0.00043430301593616605
+Month_November,3,XGBoost,0.016227111220359802
+Month_October,3,XGBoost,0.007406868971884251
+Month_September,3,XGBoost,0.0035148989409208298
+VicSex_Female,3,XGBoost,0.14810918271541595
+VicSex_Male,3,XGBoost,0.006227543111890554
+VicSex_Unknown,3,XGBoost,0.0007382440380752087
+VicRace_American Indian or Alaskan Native,3,XGBoost,0.00025055400328710675
+VicRace_Asian,3,XGBoost,9.865628817351535e-05
+VicRace_Black,3,XGBoost,0.04197057709097862
+VicRace_Native Hawaiian or Pacific Islander,3,XGBoost,0.0
+VicRace_Unknown,3,XGBoost,0.0020118404645472765
+VicRace_White,3,XGBoost,0.04246620088815689
+Weapon_Asphyxiation - includes death by gas,3,XGBoost,0.0010590247111395001
+"Weapon_Blunt object - hammer, club, etc",3,XGBoost,0.007463615853339434
+Weapon_Drowning,3,XGBoost,0.00018691884179133922
+Weapon_Explosives,3,XGBoost,0.00039912411011755466
+Weapon_Fire,3,XGBoost,0.0006464585894718766
+"Weapon_Firearm, type not stated",3,XGBoost,0.1052275151014328
+"Weapon_Handgun - pistol, revolver, etc",3,XGBoost,0.02197677083313465
+Weapon_Knife or cutting instrument,3,XGBoost,0.08498331904411316
+"Weapon_Narcotics or drugs, sleeping pills",3,XGBoost,0.00048263059579767287
+Weapon_Other gun,3,XGBoost,0.006099823862314224
+Weapon_Other or type unknown,3,XGBoost,0.05204306170344353
+"Weapon_Personal weapons, includes beating",3,XGBoost,0.026898430660367012
+Weapon_Poison - does not include gas,3,XGBoost,0.00019774319662246853
+Weapon_Pushed or thrown out window,3,XGBoost,0.0002877031220123172
+Weapon_Rifle,3,XGBoost,0.024599386379122734
+Weapon_Shotgun,3,XGBoost,0.038788456469774246
+Weapon_Strangulation - hanging,3,XGBoost,0.009018953889608383
+Weapon_Weapon Not Reported,3,XGBoost,0.002219956601038575
+Circumstance_All other manslaughter by negligence,3,XGBoost,0.0020823136437684298
+Circumstance_All suspected felony type,3,XGBoost,0.04916225001215935
+Circumstance_Argument over money or property,3,XGBoost,0.057263925671577454
+Circumstance_Arson,3,XGBoost,0.008039209060370922
+Circumstance_Brawl due to influence of alcohol,3,XGBoost,0.048330891877412796
+Circumstance_Brawl due to influence of narcotics,3,XGBoost,0.005574170965701342
+Circumstance_Burglary,3,XGBoost,0.002444707788527012
+Circumstance_Child killed by babysitter,3,XGBoost,0.004322334658354521
+Circumstance_Circumstances undetermined,3,XGBoost,0.7091533541679382
+Circumstance_Felon killed by police,3,XGBoost,0.05905807763338089
+Circumstance_Felon killed by private citizen,3,XGBoost,0.07149137556552887
+Circumstance_Gambling,3,XGBoost,0.0034384112805128098
+Circumstance_Gangland killings,3,XGBoost,0.009785121306777
+Circumstance_Institutional killings,3,XGBoost,0.0024184773210436106
+Circumstance_Juvenile gang killings,3,XGBoost,0.019921083003282547
+Circumstance_Larceny,3,XGBoost,0.0014010079903528094
+Circumstance_Lovers triangle,3,XGBoost,0.05987277254462242
+Circumstance_Motor vehicle theft,3,XGBoost,0.0005289303953759372
+Circumstance_Narcotic drug laws,3,XGBoost,0.010659699328243732
+Circumstance_Other,3,XGBoost,0.10349787771701813
+Circumstance_Other - not specified,3,XGBoost,0.021508485078811646
+Circumstance_Other arguments,3,XGBoost,0.492617130279541
+Circumstance_Other negligent handling of gun,3,XGBoost,0.0007093583699315786
+Circumstance_Other sex offense,3,XGBoost,0.0011254852870479226
+Circumstance_Prostitution and commercialized vice,3,XGBoost,0.0
+Circumstance_Rape,3,XGBoost,0.0019785300828516483
+Circumstance_Robbery,3,XGBoost,0.03586006164550781
+Circumstance_Sniper attack,3,XGBoost,0.0008168157073669136
+Year,4,Random Forest,0.004360348601536142
+VicAge,4,Random Forest,0.0048664984136336945
+VicCount,4,Random Forest,0.0007854817711424164
+OffCount,4,Random Forest,0.037551441877531795
+Monthly_Overlap,4,Random Forest,0.019399476853274446
+FTSWORN,4,Random Forest,0.00739094550750518
+PTSWORN,4,Random Forest,0.0007570721117302287
+TOTFTEMP,4,Random Forest,0.01138471848594882
+OPBUDGET,4,Random Forest,0.011759646746545224
+DET_SWN,4,Random Forest,0.010942701836863968
+PERS_TRN_ACAD,4,Random Forest,0.003547310120077308
+PERS_TRN_INSVC,4,Random Forest,0.002156011750955595
+PERS_EDU_MIN,4,Random Forest,0.0012049681378391796
+PovertyRate,4,Random Forest,0.002340987545635788
+UnemploymentRate,4,Random Forest,0.012293999892850934
+State_Alabama,4,Random Forest,0.00010883839538578782
+State_Alaska,4,Random Forest,2.4762319116130493e-06
+State_Arizona,4,Random Forest,3.909638684107984e-05
+State_Arkansas,4,Random Forest,3.477708833721535e-05
+State_California,4,Random Forest,0.006970314219969184
+State_Colorado,4,Random Forest,2.7688840426707183e-05
+State_Connecticut,4,Random Forest,2.2384786685371517e-05
+State_Delaware,4,Random Forest,5.956917763187612e-06
+State_District of Columbia,4,Random Forest,0.0005316888791762842
+State_Florida,4,Random Forest,0.00022940906517580673
+State_Georgia,4,Random Forest,0.00016672478076112587
+State_Hawaii,4,Random Forest,3.3616842494542276e-06
+State_Idaho,4,Random Forest,8.678627061576257e-06
+State_Illinois,4,Random Forest,0.0002571964304357976
+State_Indiana,4,Random Forest,7.657770275501844e-05
+State_Iowa,4,Random Forest,8.59157293904517e-06
+State_Kansas,4,Random Forest,2.78957110316403e-05
+State_Kentucky,4,Random Forest,8.631816789391808e-06
+State_Louisiana,4,Random Forest,8.525056489963335e-05
+State_Maine,4,Random Forest,1.982236838457338e-06
+State_Maryland,4,Random Forest,0.0003032322020260926
+State_Massachusetts,4,Random Forest,4.189920330697563e-05
+State_Michigan,4,Random Forest,5.014380100044977e-05
+State_Minnesota,4,Random Forest,9.527073476548244e-06
+State_Mississippi,4,Random Forest,6.468972040606842e-05
+State_Missouri,4,Random Forest,0.00016174828266816998
+State_Montana,4,Random Forest,2.530208850547418e-06
+State_Nebraska,4,Random Forest,1.7894707325928868e-06
+State_Nevada,4,Random Forest,7.093572895553551e-05
+State_New Hampshire,4,Random Forest,9.119956030444188e-07
+State_New Jersey,4,Random Forest,0.0001264774025862648
+State_New Mexico,4,Random Forest,1.2992150889973863e-05
+State_New York,4,Random Forest,0.0010808220892508486
+State_North Carolina,4,Random Forest,0.00011277319174820718
+State_North Dakota,4,Random Forest,2.1118209740717067e-06
+State_Ohio,4,Random Forest,4.4332870289069666e-05
+State_Oklahoma,4,Random Forest,5.881637446670051e-05
+State_Oregon,4,Random Forest,5.8184710155540644e-06
+State_Pennsylvania,4,Random Forest,9.069332498004065e-05
+State_Rhode Island,4,Random Forest,2.632997281359447e-06
+State_South Carolina,4,Random Forest,0.0003368564402739955
+State_South Dakota,4,Random Forest,2.2594959291189277e-06
+State_Tennessee,4,Random Forest,0.00036300787688340296
+State_Texas,4,Random Forest,0.0016319577217668406
+State_Utah,4,Random Forest,1.307122909171813e-05
+State_Vermont,4,Random Forest,3.090101645459006e-07
+State_Virginia,4,Random Forest,0.000112257339811181
+State_Washington,4,Random Forest,2.340974910507742e-05
+State_West Virginia,4,Random Forest,2.5113260349814066e-05
+State_Wisconsin,4,Random Forest,3.351460139020714e-05
+State_Wyoming,4,Random Forest,3.299779505884675e-07
+Agentype_County police,4,Random Forest,5.8940366319699334e-05
+Agentype_Municipal police,4,Random Forest,0.005716637100505441
+Agentype_Primary federal LE,4,Random Forest,0.0
+Agentype_Primary state LE,4,Random Forest,0.000411652429761692
+Agentype_Regional police,4,Random Forest,5.858763082351153e-07
+Agentype_Sheriff,4,Random Forest,0.0039101853336642395
+Agentype_Special police,4,Random Forest,2.8366011300151002e-06
+Agentype_Tribal,4,Random Forest,9.635699121631052e-07
+Month_April,4,Random Forest,3.336015850067262e-05
+Month_August,4,Random Forest,3.672971496315668e-05
+Month_December,4,Random Forest,8.421926515732752e-05
+Month_February,4,Random Forest,4.626866962181614e-05
+Month_January,4,Random Forest,6.169374545153064e-05
+Month_July,4,Random Forest,2.926788055153306e-05
+Month_June,4,Random Forest,3.0169830587133263e-05
+Month_March,4,Random Forest,3.7382181116866624e-05
+Month_May,4,Random Forest,3.529160832272809e-05
+Month_November,4,Random Forest,8.973760617295993e-05
+Month_October,4,Random Forest,2.916667443808622e-05
+Month_September,4,Random Forest,2.645156243697303e-05
+VicSex_Female,4,Random Forest,0.007470399020314869
+VicSex_Male,4,Random Forest,0.005726684682972811
+VicSex_Unknown,4,Random Forest,8.862948616871955e-06
+VicRace_American Indian or Alaskan Native,4,Random Forest,6.518861344923666e-06
+VicRace_Asian,4,Random Forest,1.9225376969953726e-05
+VicRace_Black,4,Random Forest,0.005251771890373371
+VicRace_Native Hawaiian or Pacific Islander,4,Random Forest,3.28662252607988e-07
+VicRace_Unknown,4,Random Forest,2.8088824551702195e-05
+VicRace_White,4,Random Forest,0.004723498645865509
+Weapon_Asphyxiation - includes death by gas,4,Random Forest,5.179231763525317e-06
+"Weapon_Blunt object - hammer, club, etc",4,Random Forest,0.00013487011283515023
+Weapon_Drowning,4,Random Forest,3.871230307341916e-06
+Weapon_Explosives,4,Random Forest,2.08078580317157e-06
+Weapon_Fire,4,Random Forest,6.161907726574021e-05
+"Weapon_Firearm, type not stated",4,Random Forest,0.00940977027432678
+"Weapon_Handgun - pistol, revolver, etc",4,Random Forest,0.001571325293544427
+Weapon_Knife or cutting instrument,4,Random Forest,0.005703527846974163
+"Weapon_Narcotics or drugs, sleeping pills",4,Random Forest,5.100120726370622e-06
+Weapon_Other gun,4,Random Forest,3.224853553063694e-05
+Weapon_Other or type unknown,4,Random Forest,0.0019427249518532317
+"Weapon_Personal weapons, includes beating",4,Random Forest,0.002041957575736027
+Weapon_Poison - does not include gas,4,Random Forest,7.75961500461423e-07
+Weapon_Pushed or thrown out window,4,Random Forest,5.007126103334438e-07
+Weapon_Rifle,4,Random Forest,0.0008264091087119623
+Weapon_Shotgun,4,Random Forest,0.0012863926975949739
+Weapon_Strangulation - hanging,4,Random Forest,0.0003473995725717457
+Weapon_Weapon Not Reported,4,Random Forest,6.094452441974521e-05
+Circumstance_All other manslaughter by negligence,4,Random Forest,4.614970367924751e-06
+Circumstance_All suspected felony type,4,Random Forest,0.004741568335702174
+Circumstance_Argument over money or property,4,Random Forest,0.0029992792254582472
+Circumstance_Arson,4,Random Forest,0.00014205262797265235
+Circumstance_Brawl due to influence of alcohol,4,Random Forest,0.002571629963772407
+Circumstance_Brawl due to influence of narcotics,4,Random Forest,5.4764696278027516e-05
+Circumstance_Burglary,4,Random Forest,6.907148927532295e-05
+Circumstance_Child killed by babysitter,4,Random Forest,3.8865799848749145e-05
+Circumstance_Circumstances undetermined,4,Random Forest,0.0850293587759258
+Circumstance_Felon killed by police,4,Random Forest,0.0021480151821431084
+Circumstance_Felon killed by private citizen,4,Random Forest,0.0037659635590493357
+Circumstance_Gambling,4,Random Forest,6.184500846181397e-06
+Circumstance_Gangland killings,4,Random Forest,0.00015449244213784077
+Circumstance_Institutional killings,4,Random Forest,4.77077326139481e-06
+Circumstance_Juvenile gang killings,4,Random Forest,0.002915468456372739
+Circumstance_Larceny,4,Random Forest,4.8565166574281385e-06
+Circumstance_Lovers triangle,4,Random Forest,0.0027096662745765437
+Circumstance_Motor vehicle theft,4,Random Forest,1.969442106497792e-06
+Circumstance_Narcotic drug laws,4,Random Forest,0.001065638235379531
+Circumstance_Other,4,Random Forest,0.01360572773263439
+Circumstance_Other - not specified,4,Random Forest,0.0016752049411948124
+Circumstance_Other arguments,4,Random Forest,0.06864515801665098
+Circumstance_Other negligent handling of gun,4,Random Forest,1.4547927022957346e-07
+Circumstance_Other sex offense,4,Random Forest,4.614951469461048e-06
+Circumstance_Prostitution and commercialized vice,4,Random Forest,1.014359105048533e-06
+Circumstance_Rape,4,Random Forest,0.00011275007885773908
+Circumstance_Robbery,4,Random Forest,0.0024565595721056277
+Circumstance_Sniper attack,4,Random Forest,1.316039133962365e-06
+Year,4,XGBoost,0.1875361204147339
+VicAge,4,XGBoost,0.11712116003036499
+VicCount,4,XGBoost,0.031802501529455185
+OffCount,4,XGBoost,0.45660072565078735
+Monthly_Overlap,4,XGBoost,0.11379498243331909
+FTSWORN,4,XGBoost,0.08149687945842743
+PTSWORN,4,XGBoost,0.007645424455404282
+TOTFTEMP,4,XGBoost,0.055915672332048416
+OPBUDGET,4,XGBoost,0.06723514199256897
+DET_SWN,4,XGBoost,0.04451978579163551
+PERS_TRN_ACAD,4,XGBoost,0.05732538923621178
+PERS_TRN_INSVC,4,XGBoost,0.04105070233345032
+PERS_EDU_MIN,4,XGBoost,0.0089583033695817
+PovertyRate,4,XGBoost,0.05192370340228081
+UnemploymentRate,4,XGBoost,0.10881444811820984
+State_Alabama,4,XGBoost,0.006574095226824284
+State_Alaska,4,XGBoost,0.0
+State_Arizona,4,XGBoost,0.0021884613670408726
+State_Arkansas,4,XGBoost,0.005082664079964161
+State_California,4,XGBoost,0.11994055658578873
+State_Colorado,4,XGBoost,0.003528031287714839
+State_Connecticut,4,XGBoost,0.0018423772417008877
+State_Delaware,4,XGBoost,0.0016838239971548319
+State_District of Columbia,4,XGBoost,0.00907746609300375
+State_Florida,4,XGBoost,0.011518587358295918
+State_Georgia,4,XGBoost,0.004850705619901419
+State_Hawaii,4,XGBoost,0.0
+State_Idaho,4,XGBoost,0.0006305263377726078
+State_Illinois,4,XGBoost,0.008020029403269291
+State_Indiana,4,XGBoost,0.0032328397501260042
+State_Iowa,4,XGBoost,0.0014403598615899682
+State_Kansas,4,XGBoost,0.004261381458491087
+State_Kentucky,4,XGBoost,0.002055913442745805
+State_Louisiana,4,XGBoost,0.003990663681179285
+State_Maine,4,XGBoost,0.00040654605254530907
+State_Maryland,4,XGBoost,0.0022600211668759584
+State_Massachusetts,4,XGBoost,0.00016723060980439186
+State_Michigan,4,XGBoost,0.00848910491913557
+State_Minnesota,4,XGBoost,0.002621928695589304
+State_Mississippi,4,XGBoost,0.005314314272254705
+State_Missouri,4,XGBoost,0.0014420023653656244
+State_Montana,4,XGBoost,0.0003870599321089685
+State_Nebraska,4,XGBoost,0.0
+State_Nevada,4,XGBoost,0.0028685436118394136
+State_New Hampshire,4,XGBoost,0.0
+State_New Jersey,4,XGBoost,0.0017997140530496836
+State_New Mexico,4,XGBoost,0.0011698672315105796
+State_New York,4,XGBoost,0.009948012419044971
+State_North Carolina,4,XGBoost,0.002740119583904743
+State_North Dakota,4,XGBoost,0.0005541094578802586
+State_Ohio,4,XGBoost,0.0022479442413896322
+State_Oklahoma,4,XGBoost,0.0011113741202279925
+State_Oregon,4,XGBoost,0.0
+State_Pennsylvania,4,XGBoost,0.010781541466712952
+State_Rhode Island,4,XGBoost,2.6609703127178364e-05
+State_South Carolina,4,XGBoost,0.01031227596104145
+State_South Dakota,4,XGBoost,0.000910942442715168
+State_Tennessee,4,XGBoost,0.01566138304769993
+State_Texas,4,XGBoost,0.01956402137875557
+State_Utah,4,XGBoost,0.000748679565731436
+State_Vermont,4,XGBoost,0.0
+State_Virginia,4,XGBoost,0.008444405160844326
+State_Washington,4,XGBoost,0.0008023619302548468
+State_West Virginia,4,XGBoost,0.0033957045525312424
+State_Wisconsin,4,XGBoost,0.001542126527056098
+State_Wyoming,4,XGBoost,0.00015707380953244865
+Agentype_County police,4,XGBoost,0.0017521624686196446
+Agentype_Municipal police,4,XGBoost,0.025287596508860588
+Agentype_Primary federal LE,4,XGBoost,0.0
+Agentype_Primary state LE,4,XGBoost,0.004694545641541481
+Agentype_Regional police,4,XGBoost,8.37940679048188e-05
+Agentype_Sheriff,4,XGBoost,0.015567191876471043
+Agentype_Special police,4,XGBoost,7.930528227007017e-05
+Agentype_Tribal,4,XGBoost,1.1133438420074526e-05
+Month_April,4,XGBoost,0.0026025811675935984
+Month_August,4,XGBoost,0.00024584884522482753
+Month_December,4,XGBoost,0.024025171995162964
+Month_February,4,XGBoost,0.005932082422077656
+Month_January,4,XGBoost,0.004762771539390087
+Month_July,4,XGBoost,0.0006908003124408424
+Month_June,4,XGBoost,0.00036077830009162426
+Month_March,4,XGBoost,0.00030173215782269835
+Month_May,4,XGBoost,0.0023945237044245005
+Month_November,4,XGBoost,0.016232434660196304
+Month_October,4,XGBoost,0.0071142795495688915
+Month_September,4,XGBoost,0.0023870377335697412
+VicSex_Female,4,XGBoost,0.14359673857688904
+VicSex_Male,4,XGBoost,0.006108087487518787
+VicSex_Unknown,4,XGBoost,0.000889985472895205
+VicRace_American Indian or Alaskan Native,4,XGBoost,0.000219693873077631
+VicRace_Asian,4,XGBoost,0.0006992161506786942
+VicRace_Black,4,XGBoost,0.042456481605768204
+VicRace_Native Hawaiian or Pacific Islander,4,XGBoost,0.0
+VicRace_Unknown,4,XGBoost,0.002221256261691451
+VicRace_White,4,XGBoost,0.03779930621385574
+Weapon_Asphyxiation - includes death by gas,4,XGBoost,0.0006866207695566118
+"Weapon_Blunt object - hammer, club, etc",4,XGBoost,0.00498901167884469
+Weapon_Drowning,4,XGBoost,0.000287137518171221
+Weapon_Explosives,4,XGBoost,0.0004031535645481199
+Weapon_Fire,4,XGBoost,0.000561488966923207
+"Weapon_Firearm, type not stated",4,XGBoost,0.10050997883081436
+"Weapon_Handgun - pistol, revolver, etc",4,XGBoost,0.03232010826468468
+Weapon_Knife or cutting instrument,4,XGBoost,0.08681409060955048
+"Weapon_Narcotics or drugs, sleeping pills",4,XGBoost,0.0004186980950180441
+Weapon_Other gun,4,XGBoost,0.005252004601061344
+Weapon_Other or type unknown,4,XGBoost,0.04764390364289284
+"Weapon_Personal weapons, includes beating",4,XGBoost,0.029354119673371315
+Weapon_Poison - does not include gas,4,XGBoost,0.00016229803441092372
+Weapon_Pushed or thrown out window,4,XGBoost,0.00020351198327261955
+Weapon_Rifle,4,XGBoost,0.027124084532260895
+Weapon_Shotgun,4,XGBoost,0.03744949400424957
+Weapon_Strangulation - hanging,4,XGBoost,0.008325865492224693
+Weapon_Weapon Not Reported,4,XGBoost,0.0022948780097067356
+Circumstance_All other manslaughter by negligence,4,XGBoost,0.0018544213380664587
+Circumstance_All suspected felony type,4,XGBoost,0.05372949689626694
+Circumstance_Argument over money or property,4,XGBoost,0.05189720541238785
+Circumstance_Arson,4,XGBoost,0.00826871395111084
+Circumstance_Brawl due to influence of alcohol,4,XGBoost,0.04360117018222809
+Circumstance_Brawl due to influence of narcotics,4,XGBoost,0.0044074347242712975
+Circumstance_Burglary,4,XGBoost,0.004027450457215309
+Circumstance_Child killed by babysitter,4,XGBoost,0.0041754888370633125
+Circumstance_Circumstances undetermined,4,XGBoost,0.7285322546958923
+Circumstance_Felon killed by police,4,XGBoost,0.05578196048736572
+Circumstance_Felon killed by private citizen,4,XGBoost,0.06720980256795883
+Circumstance_Gambling,4,XGBoost,0.0028653033077716827
+Circumstance_Gangland killings,4,XGBoost,0.011509864591062069
+Circumstance_Institutional killings,4,XGBoost,0.0014927394222468138
+Circumstance_Juvenile gang killings,4,XGBoost,0.027843663468956947
+Circumstance_Larceny,4,XGBoost,0.0009300639503635466
+Circumstance_Lovers triangle,4,XGBoost,0.0558042973279953
+Circumstance_Motor vehicle theft,4,XGBoost,5.469271491165273e-05
+Circumstance_Narcotic drug laws,4,XGBoost,0.017909424379467964
+Circumstance_Other,4,XGBoost,0.08260531723499298
+Circumstance_Other - not specified,4,XGBoost,0.027291489765048027
+Circumstance_Other arguments,4,XGBoost,0.46625766158103943
+Circumstance_Other negligent handling of gun,4,XGBoost,0.0005568308406509459
+Circumstance_Other sex offense,4,XGBoost,0.00034521185443736613
+Circumstance_Prostitution and commercialized vice,4,XGBoost,0.0
+Circumstance_Rape,4,XGBoost,0.0026359769981354475
+Circumstance_Robbery,4,XGBoost,0.04359327256679535
+Circumstance_Sniper attack,4,XGBoost,0.001014097360894084
+Year,5,Random Forest,0.004640502422085037
+VicAge,5,Random Forest,0.0042460712360348875
+VicCount,5,Random Forest,0.0007848212788643726
+OffCount,5,Random Forest,0.03791480177405898
+Monthly_Overlap,5,Random Forest,0.020310321320211547
+FTSWORN,5,Random Forest,0.008633213633857578
+PTSWORN,5,Random Forest,0.0010212307282521762
+TOTFTEMP,5,Random Forest,0.010188642814469464
+OPBUDGET,5,Random Forest,0.01275695813988567
+DET_SWN,5,Random Forest,0.008282393741727151
+PERS_TRN_ACAD,5,Random Forest,0.00391973327208549
+PERS_TRN_INSVC,5,Random Forest,0.0021552969907887415
+PERS_EDU_MIN,5,Random Forest,0.0010265847947558376
+PovertyRate,5,Random Forest,0.0022888883637140825
+UnemploymentRate,5,Random Forest,0.011900452593073428
+State_Alabama,5,Random Forest,6.757879125666385e-05
+State_Alaska,5,Random Forest,2.853381541666313e-06
+State_Arizona,5,Random Forest,3.562130286426831e-05
+State_Arkansas,5,Random Forest,2.9882070351366483e-05
+State_California,5,Random Forest,0.00738241424564703
+State_Colorado,5,Random Forest,5.375542746466181e-05
+State_Connecticut,5,Random Forest,2.303134722152956e-05
+State_Delaware,5,Random Forest,4.689348741434419e-06
+State_District of Columbia,5,Random Forest,0.0005634196071712739
+State_Florida,5,Random Forest,0.00023568743232263073
+State_Georgia,5,Random Forest,0.00017772023515421153
+State_Hawaii,5,Random Forest,4.9948691376520125e-06
+State_Idaho,5,Random Forest,1.0834529985399334e-05
+State_Illinois,5,Random Forest,0.0003194381730258048
+State_Indiana,5,Random Forest,8.248109996706633e-05
+State_Iowa,5,Random Forest,1.6100078989485913e-05
+State_Kansas,5,Random Forest,1.44232720986316e-05
+State_Kentucky,5,Random Forest,1.2979588402869658e-05
+State_Louisiana,5,Random Forest,5.886596179253898e-05
+State_Maine,5,Random Forest,1.2728052278283223e-06
+State_Maryland,5,Random Forest,0.00011533328750738505
+State_Massachusetts,5,Random Forest,2.953485378797313e-05
+State_Michigan,5,Random Forest,0.0001401697490546823
+State_Minnesota,5,Random Forest,2.3009422640134844e-05
+State_Mississippi,5,Random Forest,0.00015144620085781287
+State_Missouri,5,Random Forest,0.00017497686961534732
+State_Montana,5,Random Forest,3.8244019530169415e-06
+State_Nebraska,5,Random Forest,7.023100440152273e-07
+State_Nevada,5,Random Forest,4.94640178282336e-05
+State_New Hampshire,5,Random Forest,7.984928189128487e-07
+State_New Jersey,5,Random Forest,0.0001689806719214134
+State_New Mexico,5,Random Forest,9.863503195846148e-06
+State_New York,5,Random Forest,0.0007311518881622651
+State_North Carolina,5,Random Forest,0.00011457704031672415
+State_North Dakota,5,Random Forest,1.2644484859224897e-06
+State_Ohio,5,Random Forest,3.7172040794475e-05
+State_Oklahoma,5,Random Forest,6.764422116165972e-05
+State_Oregon,5,Random Forest,4.991883261489125e-06
+State_Pennsylvania,5,Random Forest,0.0001363681299802375
+State_Rhode Island,5,Random Forest,1.5993876855122823e-06
+State_South Carolina,5,Random Forest,0.0003585183775149129
+State_South Dakota,5,Random Forest,2.0464146235534554e-06
+State_Tennessee,5,Random Forest,0.000456614414788944
+State_Texas,5,Random Forest,0.002469469836344692
+State_Utah,5,Random Forest,1.1454727619829765e-05
+State_Vermont,5,Random Forest,5.066644078753665e-07
+State_Virginia,5,Random Forest,0.00012074563435502186
+State_Washington,5,Random Forest,2.6011806045269358e-05
+State_West Virginia,5,Random Forest,2.3967517733324094e-05
+State_Wisconsin,5,Random Forest,1.5807883672413455e-05
+State_Wyoming,5,Random Forest,6.493726454665126e-07
+Agentype_County police,5,Random Forest,9.175543963079817e-05
+Agentype_Municipal police,5,Random Forest,0.005661287069891847
+Agentype_Primary federal LE,5,Random Forest,3.474479831250458e-07
+Agentype_Primary state LE,5,Random Forest,0.0002500006699680579
+Agentype_Regional police,5,Random Forest,7.847684887902866e-07
+Agentype_Sheriff,5,Random Forest,0.0029103362303779952
+Agentype_Special police,5,Random Forest,2.5774372878787936e-06
+Agentype_Tribal,5,Random Forest,2.2706329162383334e-06
+Month_April,5,Random Forest,3.574958535203225e-05
+Month_August,5,Random Forest,2.9984250119130105e-05
+Month_December,5,Random Forest,0.00010384731164451144
+Month_February,5,Random Forest,4.49118594214194e-05
+Month_January,5,Random Forest,4.212107817683824e-05
+Month_July,5,Random Forest,3.740907682503009e-05
+Month_June,5,Random Forest,2.7354820984228072e-05
+Month_March,5,Random Forest,4.6057286531050876e-05
+Month_May,5,Random Forest,3.5922627412381095e-05
+Month_November,5,Random Forest,0.00010822538743130713
+Month_October,5,Random Forest,4.275580703912668e-05
+Month_September,5,Random Forest,2.9515781130807584e-05
+VicSex_Female,5,Random Forest,0.008520491560744931
+VicSex_Male,5,Random Forest,0.006568226192932448
+VicSex_Unknown,5,Random Forest,5.805232441218788e-06
+VicRace_American Indian or Alaskan Native,5,Random Forest,6.147788499162383e-06
+VicRace_Asian,5,Random Forest,2.1677571366620137e-05
+VicRace_Black,5,Random Forest,0.0053467779843955985
+VicRace_Native Hawaiian or Pacific Islander,5,Random Forest,2.3835163904070555e-07
+VicRace_Unknown,5,Random Forest,3.089639724672967e-05
+VicRace_White,5,Random Forest,0.006362609020531891
+Weapon_Asphyxiation - includes death by gas,5,Random Forest,1.1599367341535911e-05
+"Weapon_Blunt object - hammer, club, etc",5,Random Forest,0.00010213742761552265
+Weapon_Drowning,5,Random Forest,4.617961460345361e-06
+Weapon_Explosives,5,Random Forest,1.4345392168211734e-06
+Weapon_Fire,5,Random Forest,0.0001245287542517648
+"Weapon_Firearm, type not stated",5,Random Forest,0.009917349831483162
+"Weapon_Handgun - pistol, revolver, etc",5,Random Forest,0.0019972479997059827
+Weapon_Knife or cutting instrument,5,Random Forest,0.004907032033022325
+"Weapon_Narcotics or drugs, sleeping pills",5,Random Forest,6.261521009965688e-06
+Weapon_Other gun,5,Random Forest,3.579019837165018e-05
+Weapon_Other or type unknown,5,Random Forest,0.0018825234643136072
+"Weapon_Personal weapons, includes beating",5,Random Forest,0.0018668048668937674
+Weapon_Poison - does not include gas,5,Random Forest,9.335866961367709e-07
+Weapon_Pushed or thrown out window,5,Random Forest,5.269008690131496e-07
+Weapon_Rifle,5,Random Forest,0.0008083739730603132
+Weapon_Shotgun,5,Random Forest,0.0012189733241619323
+Weapon_Strangulation - hanging,5,Random Forest,0.00037701975327473163
+Weapon_Weapon Not Reported,5,Random Forest,3.185656870991209e-05
+Circumstance_All other manslaughter by negligence,5,Random Forest,3.2054077959584003e-06
+Circumstance_All suspected felony type,5,Random Forest,0.004086546170465089
+Circumstance_Argument over money or property,5,Random Forest,0.0030573014468860474
+Circumstance_Arson,5,Random Forest,0.00016887997604266497
+Circumstance_Brawl due to influence of alcohol,5,Random Forest,0.002833650347959702
+Circumstance_Brawl due to influence of narcotics,5,Random Forest,5.549776327882119e-05
+Circumstance_Burglary,5,Random Forest,5.693320551848417e-05
+Circumstance_Child killed by babysitter,5,Random Forest,3.5450643132896894e-05
+Circumstance_Circumstances undetermined,5,Random Forest,0.08525104773045507
+Circumstance_Felon killed by police,5,Random Forest,0.002184158936308984
+Circumstance_Felon killed by private citizen,5,Random Forest,0.004014888254784693
+Circumstance_Gambling,5,Random Forest,1.0327615004018953e-05
+Circumstance_Gangland killings,5,Random Forest,0.00011692527045634881
+Circumstance_Institutional killings,5,Random Forest,2.0589079618115307e-06
+Circumstance_Juvenile gang killings,5,Random Forest,0.002193066927076924
+Circumstance_Larceny,5,Random Forest,2.994801775459357e-06
+Circumstance_Lovers triangle,5,Random Forest,0.002941012524025469
+Circumstance_Motor vehicle theft,5,Random Forest,1.954493511061828e-06
+Circumstance_Narcotic drug laws,5,Random Forest,0.0015770536013922677
+Circumstance_Other,5,Random Forest,0.013713713326586113
+Circumstance_Other - not specified,5,Random Forest,0.0013897364669721636
+Circumstance_Other arguments,5,Random Forest,0.06861447582967788
+Circumstance_Other negligent handling of gun,5,Random Forest,3.5126486550323286e-07
+Circumstance_Other sex offense,5,Random Forest,1.9185486876722274e-06
+Circumstance_Prostitution and commercialized vice,5,Random Forest,2.4315928741364294e-06
+Circumstance_Rape,5,Random Forest,9.64561426621084e-05
+Circumstance_Robbery,5,Random Forest,0.002144631750967623
+Circumstance_Sniper attack,5,Random Forest,2.276131069247989e-06
+Year,5,XGBoost,0.1908295452594757
+VicAge,5,XGBoost,0.11796906590461731
+VicCount,5,XGBoost,0.03348715230822563
+OffCount,5,XGBoost,0.456521600484848
+Monthly_Overlap,5,XGBoost,0.1201174408197403
+FTSWORN,5,XGBoost,0.07211150974035263
+PTSWORN,5,XGBoost,0.010095864534378052
+TOTFTEMP,5,XGBoost,0.03435322642326355
+OPBUDGET,5,XGBoost,0.0723881870508194
+DET_SWN,5,XGBoost,0.05450085923075676
+PERS_TRN_ACAD,5,XGBoost,0.06344887614250183
+PERS_TRN_INSVC,5,XGBoost,0.03479119390249252
+PERS_EDU_MIN,5,XGBoost,0.014622407034039497
+PovertyRate,5,XGBoost,0.04886600002646446
+UnemploymentRate,5,XGBoost,0.11007273942232132
+State_Alabama,5,XGBoost,0.007147809024900198
+State_Alaska,5,XGBoost,0.0
+State_Arizona,5,XGBoost,0.0020014899782836437
+State_Arkansas,5,XGBoost,0.00442906329408288
+State_California,5,XGBoost,0.12369301170110703
+State_Colorado,5,XGBoost,0.004793287254869938
+State_Connecticut,5,XGBoost,0.0010416590375825763
+State_Delaware,5,XGBoost,0.0021163783967494965
+State_District of Columbia,5,XGBoost,0.010720422491431236
+State_Florida,5,XGBoost,0.010136747732758522
+State_Georgia,5,XGBoost,0.00553144933655858
+State_Hawaii,5,XGBoost,0.0
+State_Idaho,5,XGBoost,0.0006142514175735414
+State_Illinois,5,XGBoost,0.003664432093501091
+State_Indiana,5,XGBoost,0.0027571318205446005
+State_Iowa,5,XGBoost,0.0012805124279111624
+State_Kansas,5,XGBoost,0.004294040147215128
+State_Kentucky,5,XGBoost,0.0018745706183835864
+State_Louisiana,5,XGBoost,0.0041364883072674274
+State_Maine,5,XGBoost,0.0005308797699399292
+State_Maryland,5,XGBoost,0.00011060394899686798
+State_Massachusetts,5,XGBoost,0.0018117186846211553
+State_Michigan,5,XGBoost,0.0056091491132974625
+State_Minnesota,5,XGBoost,0.0018509830115363002
+State_Mississippi,5,XGBoost,0.007536160759627819
+State_Missouri,5,XGBoost,0.0018521436722949147
+State_Montana,5,XGBoost,0.00017814979946706444
+State_Nebraska,5,XGBoost,0.0005520934937521815
+State_Nevada,5,XGBoost,0.003253613831475377
+State_New Hampshire,5,XGBoost,0.0
+State_New Jersey,5,XGBoost,0.002466636709868908
+State_New Mexico,5,XGBoost,0.002035970101132989
+State_New York,5,XGBoost,0.011017092503607273
+State_North Carolina,5,XGBoost,0.0016476912423968315
+State_North Dakota,5,XGBoost,0.00035190361086279154
+State_Ohio,5,XGBoost,0.002279919106513262
+State_Oklahoma,5,XGBoost,0.0009687635465525091
+State_Oregon,5,XGBoost,6.87249776092358e-05
+State_Pennsylvania,5,XGBoost,0.010205878876149654
+State_Rhode Island,5,XGBoost,0.0
+State_South Carolina,5,XGBoost,0.008518893271684647
+State_South Dakota,5,XGBoost,0.0004618789243977517
+State_Tennessee,5,XGBoost,0.013543561100959778
+State_Texas,5,XGBoost,0.023222049698233604
+State_Utah,5,XGBoost,0.0008341927896253765
+State_Vermont,5,XGBoost,0.0
+State_Virginia,5,XGBoost,0.010880991816520691
+State_Washington,5,XGBoost,0.0026458401698619127
+State_West Virginia,5,XGBoost,0.0036946674808859825
+State_Wisconsin,5,XGBoost,0.001852379529736936
+State_Wyoming,5,XGBoost,0.0003330973268020898
+Agentype_County police,5,XGBoost,0.00047617917880415916
+Agentype_Municipal police,5,XGBoost,0.03398057818412781
+Agentype_Primary federal LE,5,XGBoost,0.0
+Agentype_Primary state LE,5,XGBoost,0.0057367547415196896
+Agentype_Regional police,5,XGBoost,0.0
+Agentype_Sheriff,5,XGBoost,0.012856331653892994
+Agentype_Special police,5,XGBoost,0.0
+Agentype_Tribal,5,XGBoost,0.0
+Month_April,5,XGBoost,0.0005124204908497632
+Month_August,5,XGBoost,0.0006837258115410805
+Month_December,5,XGBoost,0.023952865973114967
+Month_February,5,XGBoost,0.004540888126939535
+Month_January,5,XGBoost,0.004551967605948448
+Month_July,5,XGBoost,0.0005821453523822129
+Month_June,5,XGBoost,0.0005155452527105808
+Month_March,5,XGBoost,0.004510789643973112
+Month_May,5,XGBoost,0.002535013947635889
+Month_November,5,XGBoost,0.01564222387969494
+Month_October,5,XGBoost,0.006933106109499931
+Month_September,5,XGBoost,0.002613098593428731
+VicSex_Female,5,XGBoost,0.1405830681324005
+VicSex_Male,5,XGBoost,0.006929025985300541
+VicSex_Unknown,5,XGBoost,0.0006134723080322146
+VicRace_American Indian or Alaskan Native,5,XGBoost,5.031493856222369e-05
+VicRace_Asian,5,XGBoost,0.00020226648484822363
+VicRace_Black,5,XGBoost,0.039001137018203735
+VicRace_Native Hawaiian or Pacific Islander,5,XGBoost,0.0
+VicRace_Unknown,5,XGBoost,0.002302617533132434
+VicRace_White,5,XGBoost,0.04293465241789818
+Weapon_Asphyxiation - includes death by gas,5,XGBoost,0.0014195393305271864
+"Weapon_Blunt object - hammer, club, etc",5,XGBoost,0.006906012538820505
+Weapon_Drowning,5,XGBoost,0.00038428170955739915
+Weapon_Explosives,5,XGBoost,0.00030104813049547374
+Weapon_Fire,5,XGBoost,0.0006976138683967292
+"Weapon_Firearm, type not stated",5,XGBoost,0.10771321505308151
+"Weapon_Handgun - pistol, revolver, etc",5,XGBoost,0.026479626074433327
+Weapon_Knife or cutting instrument,5,XGBoost,0.0875910297036171
+"Weapon_Narcotics or drugs, sleeping pills",5,XGBoost,0.0004980677040293813
+Weapon_Other gun,5,XGBoost,0.0060080247931182384
+Weapon_Other or type unknown,5,XGBoost,0.05196681246161461
+"Weapon_Personal weapons, includes beating",5,XGBoost,0.027003129944205284
+Weapon_Poison - does not include gas,5,XGBoost,0.00018250069115310907
+Weapon_Pushed or thrown out window,5,XGBoost,0.00011899573291884735
+Weapon_Rifle,5,XGBoost,0.027449537068605423
+Weapon_Shotgun,5,XGBoost,0.0374273918569088
+Weapon_Strangulation - hanging,5,XGBoost,0.008666528388857841
+Weapon_Weapon Not Reported,5,XGBoost,0.0019669844768941402
+Circumstance_All other manslaughter by negligence,5,XGBoost,0.0020165713503956795
+Circumstance_All suspected felony type,5,XGBoost,0.05325170233845711
+Circumstance_Argument over money or property,5,XGBoost,0.053097695112228394
+Circumstance_Arson,5,XGBoost,0.009451190941035748
+Circumstance_Brawl due to influence of alcohol,5,XGBoost,0.044757746160030365
+Circumstance_Brawl due to influence of narcotics,5,XGBoost,0.004453808069229126
+Circumstance_Burglary,5,XGBoost,0.003553544171154499
+Circumstance_Child killed by babysitter,5,XGBoost,0.004210548009723425
+Circumstance_Circumstances undetermined,5,XGBoost,0.7382543683052063
+Circumstance_Felon killed by police,5,XGBoost,0.056059759110212326
+Circumstance_Felon killed by private citizen,5,XGBoost,0.0695628747344017
+Circumstance_Gambling,5,XGBoost,0.0030007187742739916
+Circumstance_Gangland killings,5,XGBoost,0.010871647857129574
+Circumstance_Institutional killings,5,XGBoost,0.0014245808124542236
+Circumstance_Juvenile gang killings,5,XGBoost,0.028583604842424393
+Circumstance_Larceny,5,XGBoost,0.0010345602640882134
+Circumstance_Lovers triangle,5,XGBoost,0.056045643985271454
+Circumstance_Motor vehicle theft,5,XGBoost,2.8027130611008033e-05
+Circumstance_Narcotic drug laws,5,XGBoost,0.018630294129252434
+Circumstance_Other,5,XGBoost,0.08272591233253479
+Circumstance_Other - not specified,5,XGBoost,0.028133822605013847
+Circumstance_Other arguments,5,XGBoost,0.4629698097705841
+Circumstance_Other negligent handling of gun,5,XGBoost,0.0006354423821903765
+Circumstance_Other sex offense,5,XGBoost,0.0009341216646134853
+Circumstance_Prostitution and commercialized vice,5,XGBoost,1.672229336691089e-05
+Circumstance_Rape,5,XGBoost,0.0021117303986102343
+Circumstance_Robbery,5,XGBoost,0.0427759513258934
+Circumstance_Sniper attack,5,XGBoost,0.0011791260913014412
+Year,6,Random Forest,0.004761055072284123
+VicAge,6,Random Forest,0.004731392838887145
+VicCount,6,Random Forest,0.0006412931259359126
+OffCount,6,Random Forest,0.036737026106693584
+Monthly_Overlap,6,Random Forest,0.02189311490655766
+FTSWORN,6,Random Forest,0.007602432465558986
+PTSWORN,6,Random Forest,0.0008838208507171729
+TOTFTEMP,6,Random Forest,0.010532406776145534
+OPBUDGET,6,Random Forest,0.011026014187667636
+DET_SWN,6,Random Forest,0.008954978840104412
+PERS_TRN_ACAD,6,Random Forest,0.00384962382870974
+PERS_TRN_INSVC,6,Random Forest,0.0022678669026823207
+PERS_EDU_MIN,6,Random Forest,0.0013012824662450902
+PovertyRate,6,Random Forest,0.002639553759479847
+UnemploymentRate,6,Random Forest,0.013778283497123144
+State_Alabama,6,Random Forest,7.456697929332788e-05
+State_Alaska,6,Random Forest,3.233263958524779e-06
+State_Arizona,6,Random Forest,3.984669030293045e-05
+State_Arkansas,6,Random Forest,6.114331523799026e-05
+State_California,6,Random Forest,0.00727680418230371
+State_Colorado,6,Random Forest,4.764944671777528e-05
+State_Connecticut,6,Random Forest,2.991825828735743e-05
+State_Delaware,6,Random Forest,2.8406404911089043e-06
+State_District of Columbia,6,Random Forest,0.0005264463664211988
+State_Florida,6,Random Forest,0.0005197090821549694
+State_Georgia,6,Random Forest,9.680073509642945e-05
+State_Hawaii,6,Random Forest,5.293739662341452e-06
+State_Idaho,6,Random Forest,1.9041575630532406e-05
+State_Illinois,6,Random Forest,0.00024013222728678564
+State_Indiana,6,Random Forest,9.670234910525424e-05
+State_Iowa,6,Random Forest,5.094983930646277e-06
+State_Kansas,6,Random Forest,2.1375084404338937e-05
+State_Kentucky,6,Random Forest,1.1397302187780588e-05
+State_Louisiana,6,Random Forest,6.309135541935994e-05
+State_Maine,6,Random Forest,6.255157065686767e-07
+State_Maryland,6,Random Forest,0.00011408820142832302
+State_Massachusetts,6,Random Forest,2.4208218618814145e-05
+State_Michigan,6,Random Forest,0.00011272371012512468
+State_Minnesota,6,Random Forest,1.1737023010417273e-05
+State_Mississippi,6,Random Forest,9.082653814064668e-05
+State_Missouri,6,Random Forest,0.00014924960685896592
+State_Montana,6,Random Forest,1.5841927060426386e-06
+State_Nebraska,6,Random Forest,2.648440889126711e-06
+State_Nevada,6,Random Forest,3.263579442763754e-05
+State_New Hampshire,6,Random Forest,8.780599383219226e-07
+State_New Jersey,6,Random Forest,0.00018509923240007126
+State_New Mexico,6,Random Forest,1.5070602487037305e-05
+State_New York,6,Random Forest,0.0012924647024877107
+State_North Carolina,6,Random Forest,0.00010106933279027313
+State_North Dakota,6,Random Forest,3.7258184947465286e-06
+State_Ohio,6,Random Forest,3.983118101493881e-05
+State_Oklahoma,6,Random Forest,1.3288041035527497e-05
+State_Oregon,6,Random Forest,3.9277340832159525e-06
+State_Pennsylvania,6,Random Forest,0.00013444400053983044
+State_Rhode Island,6,Random Forest,3.269134652919737e-06
+State_South Carolina,6,Random Forest,0.0004357730011410032
+State_South Dakota,6,Random Forest,1.9453723499244374e-06
+State_Tennessee,6,Random Forest,0.0005658147090550098
+State_Texas,6,Random Forest,0.0017121428676278756
+State_Utah,6,Random Forest,1.2326747628861773e-05
+State_Vermont,6,Random Forest,2.9106920799171365e-07
+State_Virginia,6,Random Forest,0.00010531386315520521
+State_Washington,6,Random Forest,2.372632371451713e-05
+State_West Virginia,6,Random Forest,2.9596858134807024e-05
+State_Wisconsin,6,Random Forest,2.8201063494795796e-05
+State_Wyoming,6,Random Forest,9.294111936593745e-07
+Agentype_County police,6,Random Forest,8.466386728058859e-05
+Agentype_Municipal police,6,Random Forest,0.005255455985436288
+Agentype_Primary federal LE,6,Random Forest,1.2333357433159427e-06
+Agentype_Primary state LE,6,Random Forest,0.00021565396480538812
+Agentype_Regional police,6,Random Forest,2.47662787720767e-07
+Agentype_Sheriff,6,Random Forest,0.0037817522224819805
+Agentype_Special police,6,Random Forest,2.5804856977093564e-06
+Agentype_Tribal,6,Random Forest,1.5199612056220335e-06
+Month_April,6,Random Forest,3.8541378589613526e-05
+Month_August,6,Random Forest,3.227468052658922e-05
+Month_December,6,Random Forest,9.898021743767572e-05
+Month_February,6,Random Forest,5.585486533476e-05
+Month_January,6,Random Forest,5.642983327763033e-05
+Month_July,6,Random Forest,2.870374730344992e-05
+Month_June,6,Random Forest,2.5586868220686547e-05
+Month_March,6,Random Forest,3.0327653667530405e-05
+Month_May,6,Random Forest,3.499307276625855e-05
+Month_November,6,Random Forest,9.396239075330839e-05
+Month_October,6,Random Forest,3.153114413066708e-05
+Month_September,6,Random Forest,3.9331727422135073e-05
+VicSex_Female,6,Random Forest,0.008055948712181233
+VicSex_Male,6,Random Forest,0.006012719664737131
+VicSex_Unknown,6,Random Forest,6.110009452037905e-06
+VicRace_American Indian or Alaskan Native,6,Random Forest,1.0627408498943546e-05
+VicRace_Asian,6,Random Forest,1.8232652625384233e-05
+VicRace_Black,6,Random Forest,0.0054778886266188395
+VicRace_Native Hawaiian or Pacific Islander,6,Random Forest,9.19180237294662e-07
+VicRace_Unknown,6,Random Forest,2.5693037763115795e-05
+VicRace_White,6,Random Forest,0.006271867336354877
+Weapon_Asphyxiation - includes death by gas,6,Random Forest,6.625053368994181e-06
+"Weapon_Blunt object - hammer, club, etc",6,Random Forest,9.116612169359344e-05
+Weapon_Drowning,6,Random Forest,3.6590322682847502e-06
+Weapon_Explosives,6,Random Forest,1.3525898040091226e-06
+Weapon_Fire,6,Random Forest,7.465912300820573e-05
+"Weapon_Firearm, type not stated",6,Random Forest,0.010433174667587352
+"Weapon_Handgun - pistol, revolver, etc",6,Random Forest,0.0014381190220630403
+Weapon_Knife or cutting instrument,6,Random Forest,0.005941621207292356
+"Weapon_Narcotics or drugs, sleeping pills",6,Random Forest,6.073739562500521e-06
+Weapon_Other gun,6,Random Forest,5.42814320228342e-05
+Weapon_Other or type unknown,6,Random Forest,0.0018758914025319312
+"Weapon_Personal weapons, includes beating",6,Random Forest,0.001902575235323188
+Weapon_Poison - does not include gas,6,Random Forest,9.993529082182732e-07
+Weapon_Pushed or thrown out window,6,Random Forest,6.424346026414041e-07
+Weapon_Rifle,6,Random Forest,0.0007013825233214144
+Weapon_Shotgun,6,Random Forest,0.0012485464879715999
+Weapon_Strangulation - hanging,6,Random Forest,0.0003715775444061989
+Weapon_Weapon Not Reported,6,Random Forest,3.0470584192387663e-05
+Circumstance_All other manslaughter by negligence,6,Random Forest,9.059618193539815e-06
+Circumstance_All suspected felony type,6,Random Forest,0.00427059193659149
+Circumstance_Argument over money or property,6,Random Forest,0.002845368305997567
+Circumstance_Arson,6,Random Forest,0.00013111302433860988
+Circumstance_Brawl due to influence of alcohol,6,Random Forest,0.002621668554265479
+Circumstance_Brawl due to influence of narcotics,6,Random Forest,3.520697452036736e-05
+Circumstance_Burglary,6,Random Forest,4.3439807239250375e-05
+Circumstance_Child killed by babysitter,6,Random Forest,3.6235425642789164e-05
+Circumstance_Circumstances undetermined,6,Random Forest,0.08058955442815037
+Circumstance_Felon killed by police,6,Random Forest,0.002009424158851199
+Circumstance_Felon killed by private citizen,6,Random Forest,0.00400822868063959
+Circumstance_Gambling,6,Random Forest,2.354271875159981e-06
+Circumstance_Gangland killings,6,Random Forest,0.00015386076949322787
+Circumstance_Institutional killings,6,Random Forest,5.172165711148609e-06
+Circumstance_Juvenile gang killings,6,Random Forest,0.002424777894578705
+Circumstance_Larceny,6,Random Forest,1.5639239126961646e-06
+Circumstance_Lovers triangle,6,Random Forest,0.0028824406641109416
+Circumstance_Motor vehicle theft,6,Random Forest,1.970995589540243e-06
+Circumstance_Narcotic drug laws,6,Random Forest,0.0011367146790611335
+Circumstance_Other,6,Random Forest,0.013431673539079373
+Circumstance_Other - not specified,6,Random Forest,0.00116294999636836
+Circumstance_Other arguments,6,Random Forest,0.06308245807131496
+Circumstance_Other negligent handling of gun,6,Random Forest,1.3843284130471464e-07
+Circumstance_Other sex offense,6,Random Forest,3.3462913450630725e-06
+Circumstance_Prostitution and commercialized vice,6,Random Forest,1.241324417502769e-06
+Circumstance_Rape,6,Random Forest,0.00010285414894077477
+Circumstance_Robbery,6,Random Forest,0.002518624559227091
+Circumstance_Sniper attack,6,Random Forest,2.3148210665346762e-06
+Year,6,XGBoost,0.18342281877994537
+VicAge,6,XGBoost,0.11611958593130112
+VicCount,6,XGBoost,0.03473067656159401
+OffCount,6,XGBoost,0.46535423398017883
+Monthly_Overlap,6,XGBoost,0.11297247558832169
+FTSWORN,6,XGBoost,0.05527660623192787
+PTSWORN,6,XGBoost,0.011150162667036057
+TOTFTEMP,6,XGBoost,0.05924712494015694
+OPBUDGET,6,XGBoost,0.05460304021835327
+DET_SWN,6,XGBoost,0.05947316810488701
+PERS_TRN_ACAD,6,XGBoost,0.06980954110622406
+PERS_TRN_INSVC,6,XGBoost,0.03292156010866165
+PERS_EDU_MIN,6,XGBoost,0.010094876401126385
+PovertyRate,6,XGBoost,0.06086394190788269
+UnemploymentRate,6,XGBoost,0.11667797714471817
+State_Alabama,6,XGBoost,0.008205161429941654
+State_Alaska,6,XGBoost,5.551350841415115e-05
+State_Arizona,6,XGBoost,0.0015516683924943209
+State_Arkansas,6,XGBoost,0.005545006133615971
+State_California,6,XGBoost,0.12002222239971161
+State_Colorado,6,XGBoost,0.0030696771573275328
+State_Connecticut,6,XGBoost,0.0021456971298903227
+State_Delaware,6,XGBoost,0.0016717619728296995
+State_District of Columbia,6,XGBoost,0.010035613551735878
+State_Florida,6,XGBoost,0.010815858840942383
+State_Georgia,6,XGBoost,0.0073008774779737
+State_Hawaii,6,XGBoost,0.0003312806074973196
+State_Idaho,6,XGBoost,0.0008238531299866736
+State_Illinois,6,XGBoost,0.004582415800541639
+State_Indiana,6,XGBoost,0.00437904242426157
+State_Iowa,6,XGBoost,0.0019523428054526448
+State_Kansas,6,XGBoost,0.004535508807748556
+State_Kentucky,6,XGBoost,0.0014937343075871468
+State_Louisiana,6,XGBoost,0.002972087124362588
+State_Maine,6,XGBoost,0.0005008219741284847
+State_Maryland,6,XGBoost,0.0018596756272017956
+State_Massachusetts,6,XGBoost,0.0012151545379310846
+State_Michigan,6,XGBoost,0.005805561318993568
+State_Minnesota,6,XGBoost,0.002320910105481744
+State_Mississippi,6,XGBoost,0.005462803412228823
+State_Missouri,6,XGBoost,0.0005981207941658795
+State_Montana,6,XGBoost,0.0003002581070177257
+State_Nebraska,6,XGBoost,0.0
+State_Nevada,6,XGBoost,0.003349962178617716
+State_New Hampshire,6,XGBoost,0.0
+State_New Jersey,6,XGBoost,0.002350287279114127
+State_New Mexico,6,XGBoost,0.0017661937745288014
+State_New York,6,XGBoost,0.00973433256149292
+State_North Carolina,6,XGBoost,0.0017750983824953437
+State_North Dakota,6,XGBoost,0.0005229049711488187
+State_Ohio,6,XGBoost,0.0013081103097647429
+State_Oklahoma,6,XGBoost,0.001157048624008894
+State_Oregon,6,XGBoost,8.084737055469304e-05
+State_Pennsylvania,6,XGBoost,0.009776242077350616
+State_Rhode Island,6,XGBoost,0.0
+State_South Carolina,6,XGBoost,0.008241512812674046
+State_South Dakota,6,XGBoost,0.0007466053939424455
+State_Tennessee,6,XGBoost,0.013518479652702808
+State_Texas,6,XGBoost,0.019471600651741028
+State_Utah,6,XGBoost,0.0
+State_Vermont,6,XGBoost,0.0
+State_Virginia,6,XGBoost,0.010065260343253613
+State_Washington,6,XGBoost,0.0013740474823862314
+State_West Virginia,6,XGBoost,0.004125277511775494
+State_Wisconsin,6,XGBoost,0.001549656968563795
+State_Wyoming,6,XGBoost,0.00019169227743986994
+Agentype_County police,6,XGBoost,0.0004925379762426019
+Agentype_Municipal police,6,XGBoost,0.0163431316614151
+Agentype_Primary federal LE,6,XGBoost,0.0
+Agentype_Primary state LE,6,XGBoost,0.005089369602501392
+Agentype_Regional police,6,XGBoost,0.0
+Agentype_Sheriff,6,XGBoost,0.028591498732566833
+Agentype_Special police,6,XGBoost,7.218316750368103e-05
+Agentype_Tribal,6,XGBoost,3.254058538004756e-05
+Month_April,6,XGBoost,0.00046580415801145136
+Month_August,6,XGBoost,0.0002623509499244392
+Month_December,6,XGBoost,0.023153292015194893
+Month_February,6,XGBoost,0.0057459631934762
+Month_January,6,XGBoost,0.004523820243775845
+Month_July,6,XGBoost,0.00048349302960559726
+Month_June,6,XGBoost,0.00033629825338721275
+Month_March,6,XGBoost,0.001965249888598919
+Month_May,6,XGBoost,0.00025134452152997255
+Month_November,6,XGBoost,0.015315111726522446
+Month_October,6,XGBoost,0.007336067501455545
+Month_September,6,XGBoost,0.00451960414648056
+VicSex_Female,6,XGBoost,0.14853602647781372
+VicSex_Male,6,XGBoost,0.008922376669943333
+VicSex_Unknown,6,XGBoost,0.0007985057309269905
+VicRace_American Indian or Alaskan Native,6,XGBoost,0.00026961113326251507
+VicRace_Asian,6,XGBoost,0.00032420753268525004
+VicRace_Black,6,XGBoost,0.032938599586486816
+VicRace_Native Hawaiian or Pacific Islander,6,XGBoost,0.0
+VicRace_Unknown,6,XGBoost,0.0015730304876342416
+VicRace_White,6,XGBoost,0.0547199472784996
+Weapon_Asphyxiation - includes death by gas,6,XGBoost,0.0010713458759710193
+"Weapon_Blunt object - hammer, club, etc",6,XGBoost,0.00579166179522872
+Weapon_Drowning,6,XGBoost,7.835748692741618e-05
+Weapon_Explosives,6,XGBoost,0.0003299749514553696
+Weapon_Fire,6,XGBoost,0.0003834290546365082
+"Weapon_Firearm, type not stated",6,XGBoost,0.10238784551620483
+"Weapon_Handgun - pistol, revolver, etc",6,XGBoost,0.03325081989169121
+Weapon_Knife or cutting instrument,6,XGBoost,0.09446663409471512
+"Weapon_Narcotics or drugs, sleeping pills",6,XGBoost,0.0011148892808705568
+Weapon_Other gun,6,XGBoost,0.005782648455351591
+Weapon_Other or type unknown,6,XGBoost,0.047060202807188034
+"Weapon_Personal weapons, includes beating",6,XGBoost,0.027744516730308533
+Weapon_Poison - does not include gas,6,XGBoost,0.0001842844794737175
+Weapon_Pushed or thrown out window,6,XGBoost,9.183139627566561e-05
+Weapon_Rifle,6,XGBoost,0.02747308276593685
+Weapon_Shotgun,6,XGBoost,0.03923569247126579
+Weapon_Strangulation - hanging,6,XGBoost,0.007729976903647184
+Weapon_Weapon Not Reported,6,XGBoost,0.0023605050519108772
+Circumstance_All other manslaughter by negligence,6,XGBoost,0.0021177553571760654
+Circumstance_All suspected felony type,6,XGBoost,0.050345901399850845
+Circumstance_Argument over money or property,6,XGBoost,0.05583705008029938
+Circumstance_Arson,6,XGBoost,0.006240671966224909
+Circumstance_Brawl due to influence of alcohol,6,XGBoost,0.048720646649599075
+Circumstance_Brawl due to influence of narcotics,6,XGBoost,0.005929769482463598
+Circumstance_Burglary,6,XGBoost,0.001792056136764586
+Circumstance_Child killed by babysitter,6,XGBoost,0.004337609279900789
+Circumstance_Circumstances undetermined,6,XGBoost,0.7151636481285095
+Circumstance_Felon killed by police,6,XGBoost,0.058993928134441376
+Circumstance_Felon killed by private citizen,6,XGBoost,0.07269562780857086
+Circumstance_Gambling,6,XGBoost,0.00328778475522995
+Circumstance_Gangland killings,6,XGBoost,0.007776642218232155
+Circumstance_Institutional killings,6,XGBoost,0.0022383618634194136
+Circumstance_Juvenile gang killings,6,XGBoost,0.01764751970767975
+Circumstance_Larceny,6,XGBoost,0.001355589716695249
+Circumstance_Lovers triangle,6,XGBoost,0.060109782963991165
+Circumstance_Motor vehicle theft,6,XGBoost,0.0011510926997289062
+Circumstance_Narcotic drug laws,6,XGBoost,0.007013475988060236
+Circumstance_Other,6,XGBoost,0.10880673676729202
+Circumstance_Other - not specified,6,XGBoost,0.017260508611798286
+Circumstance_Other arguments,6,XGBoost,0.4915755093097687
+Circumstance_Other negligent handling of gun,6,XGBoost,0.0007733750389888883
+Circumstance_Other sex offense,6,XGBoost,0.0013558666687458754
+Circumstance_Prostitution and commercialized vice,6,XGBoost,0.0
+Circumstance_Rape,6,XGBoost,0.0009263523388653994
+Circumstance_Robbery,6,XGBoost,0.027390241622924805
+Circumstance_Sniper attack,6,XGBoost,0.000777362089138478
+Year,7,Random Forest,0.0038436659159530027
+VicAge,7,Random Forest,0.00559513544000679
+VicCount,7,Random Forest,0.000660723983250865
+OffCount,7,Random Forest,0.034627840233464734
+Monthly_Overlap,7,Random Forest,0.020952677688898337
+FTSWORN,7,Random Forest,0.00705461544347325
+PTSWORN,7,Random Forest,0.0007854086815423011
+TOTFTEMP,7,Random Forest,0.011378964161416236
+OPBUDGET,7,Random Forest,0.012386620702550028
+DET_SWN,7,Random Forest,0.008662216898086092
+PERS_TRN_ACAD,7,Random Forest,0.0037469721102235307
+PERS_TRN_INSVC,7,Random Forest,0.0018821259619490756
+PERS_EDU_MIN,7,Random Forest,0.0012999514854448182
+PovertyRate,7,Random Forest,0.002487061615410598
+UnemploymentRate,7,Random Forest,0.012625763950153286
+State_Alabama,7,Random Forest,9.695584452022965e-05
+State_Alaska,7,Random Forest,2.5590129475437655e-06
+State_Arizona,7,Random Forest,8.714914685053915e-05
+State_Arkansas,7,Random Forest,4.3221794299984786e-05
+State_California,7,Random Forest,0.007031424959182145
+State_Colorado,7,Random Forest,5.2641733421763086e-05
+State_Connecticut,7,Random Forest,2.3854790396199763e-05
+State_Delaware,7,Random Forest,2.8660564063858396e-06
+State_District of Columbia,7,Random Forest,0.0005969915615808025
+State_Florida,7,Random Forest,0.00043273975466148604
+State_Georgia,7,Random Forest,0.00022185372178075416
+State_Hawaii,7,Random Forest,4.747705482009263e-06
+State_Idaho,7,Random Forest,1.157005065436265e-05
+State_Illinois,7,Random Forest,0.0002716375418911344
+State_Indiana,7,Random Forest,7.557779792412398e-05
+State_Iowa,7,Random Forest,5.130392224507921e-06
+State_Kansas,7,Random Forest,1.734101047646453e-05
+State_Kentucky,7,Random Forest,1.468746495784296e-05
+State_Louisiana,7,Random Forest,7.307017647480077e-05
+State_Maine,7,Random Forest,1.1638736470573041e-06
+State_Maryland,7,Random Forest,0.0003034012902128146
+State_Massachusetts,7,Random Forest,2.8222899568365468e-05
+State_Michigan,7,Random Forest,9.197069385350697e-05
+State_Minnesota,7,Random Forest,1.8350767163883915e-05
+State_Mississippi,7,Random Forest,0.00011417360705311568
+State_Missouri,7,Random Forest,0.0001397671944628547
+State_Montana,7,Random Forest,1.3619458529153986e-06
+State_Nebraska,7,Random Forest,1.641752264354248e-06
+State_Nevada,7,Random Forest,4.0811465009131366e-05
+State_New Hampshire,7,Random Forest,6.058856083123085e-07
+State_New Jersey,7,Random Forest,0.00015996953228071092
+State_New Mexico,7,Random Forest,7.89998900630801e-06
+State_New York,7,Random Forest,0.0009865454256641796
+State_North Carolina,7,Random Forest,0.00010920469952137106
+State_North Dakota,7,Random Forest,2.1645499219650275e-06
+State_Ohio,7,Random Forest,4.1629959968876855e-05
+State_Oklahoma,7,Random Forest,4.433758511112844e-05
+State_Oregon,7,Random Forest,4.2575951894911715e-06
+State_Pennsylvania,7,Random Forest,0.00015771893940322068
+State_Rhode Island,7,Random Forest,2.887896117329002e-06
+State_South Carolina,7,Random Forest,0.0005653997117510242
+State_South Dakota,7,Random Forest,3.408991434052404e-06
+State_Tennessee,7,Random Forest,0.00038466279711426557
+State_Texas,7,Random Forest,0.0014382654975089312
+State_Utah,7,Random Forest,4.907934288998188e-06
+State_Vermont,7,Random Forest,4.705093046733948e-07
+State_Virginia,7,Random Forest,0.00011760280066019108
+State_Washington,7,Random Forest,2.5678482956372208e-05
+State_West Virginia,7,Random Forest,2.0006354673025844e-05
+State_Wisconsin,7,Random Forest,2.5564569087628758e-05
+State_Wyoming,7,Random Forest,8.9635035675406e-07
+Agentype_County police,7,Random Forest,7.799454064102634e-05
+Agentype_Municipal police,7,Random Forest,0.004890336102767434
+Agentype_Primary federal LE,7,Random Forest,1.2537444152525217e-06
+Agentype_Primary state LE,7,Random Forest,0.0001972859431109443
+Agentype_Regional police,7,Random Forest,4.408599816316224e-07
+Agentype_Sheriff,7,Random Forest,0.003723072026724592
+Agentype_Special police,7,Random Forest,2.8567487341692373e-06
+Agentype_Tribal,7,Random Forest,5.629162284610228e-07
+Month_April,7,Random Forest,3.15717688178381e-05
+Month_August,7,Random Forest,3.3709956623582925e-05
+Month_December,7,Random Forest,0.00010543209207528304
+Month_February,7,Random Forest,3.699147353182939e-05
+Month_January,7,Random Forest,5.2966116896287694e-05
+Month_July,7,Random Forest,3.099919866262719e-05
+Month_June,7,Random Forest,3.1963305927642016e-05
+Month_March,7,Random Forest,3.7090290151033244e-05
+Month_May,7,Random Forest,2.8447931427500585e-05
+Month_November,7,Random Forest,4.877058838311879e-05
+Month_October,7,Random Forest,3.682725641496754e-05
+Month_September,7,Random Forest,3.615014829694954e-05
+VicSex_Female,7,Random Forest,0.007381495716978505
+VicSex_Male,7,Random Forest,0.005944780406971166
+VicSex_Unknown,7,Random Forest,9.545986097170823e-06
+VicRace_American Indian or Alaskan Native,7,Random Forest,1.1335535198118785e-05
+VicRace_Asian,7,Random Forest,2.6766164343047466e-05
+VicRace_Black,7,Random Forest,0.006849532403916866
+VicRace_Native Hawaiian or Pacific Islander,7,Random Forest,6.413139228482871e-07
+VicRace_Unknown,7,Random Forest,2.245945043155441e-05
+VicRace_White,7,Random Forest,0.004467968988560359
+Weapon_Asphyxiation - includes death by gas,7,Random Forest,6.850803101283539e-06
+"Weapon_Blunt object - hammer, club, etc",7,Random Forest,9.623694378920848e-05
+Weapon_Drowning,7,Random Forest,3.2299437557817972e-06
+Weapon_Explosives,7,Random Forest,2.1153912239055817e-06
+Weapon_Fire,7,Random Forest,8.690400872123289e-05
+"Weapon_Firearm, type not stated",7,Random Forest,0.010205428058387225
+"Weapon_Handgun - pistol, revolver, etc",7,Random Forest,0.0015526541459234481
+Weapon_Knife or cutting instrument,7,Random Forest,0.005896993561218025
+"Weapon_Narcotics or drugs, sleeping pills",7,Random Forest,5.359979503950687e-06
+Weapon_Other gun,7,Random Forest,4.7030061040574764e-05
+Weapon_Other or type unknown,7,Random Forest,0.0019117863381681256
+"Weapon_Personal weapons, includes beating",7,Random Forest,0.0014487584109124008
+Weapon_Poison - does not include gas,7,Random Forest,6.134014099314876e-07
+Weapon_Pushed or thrown out window,7,Random Forest,4.1535672621811317e-07
+Weapon_Rifle,7,Random Forest,0.0010133376895368786
+Weapon_Shotgun,7,Random Forest,0.001023826164479703
+Weapon_Strangulation - hanging,7,Random Forest,0.00039972879571789063
+Weapon_Weapon Not Reported,7,Random Forest,3.433212423767471e-05
+Circumstance_All other manslaughter by negligence,7,Random Forest,2.687746695558302e-06
+Circumstance_All suspected felony type,7,Random Forest,0.004453319429701351
+Circumstance_Argument over money or property,7,Random Forest,0.0025612757152506053
+Circumstance_Arson,7,Random Forest,0.0001549153762813702
+Circumstance_Brawl due to influence of alcohol,7,Random Forest,0.002390504292897529
+Circumstance_Brawl due to influence of narcotics,7,Random Forest,3.46394008536627e-05
+Circumstance_Burglary,7,Random Forest,5.900191244713464e-05
+Circumstance_Child killed by babysitter,7,Random Forest,5.081370828125577e-05
+Circumstance_Circumstances undetermined,7,Random Forest,0.08712166485747255
+Circumstance_Felon killed by police,7,Random Forest,0.0021150633920468836
+Circumstance_Felon killed by private citizen,7,Random Forest,0.0043945688612815614
+Circumstance_Gambling,7,Random Forest,1.0400767915751768e-05
+Circumstance_Gangland killings,7,Random Forest,0.00018499524115901645
+Circumstance_Institutional killings,7,Random Forest,7.148435803566132e-06
+Circumstance_Juvenile gang killings,7,Random Forest,0.0028179006972110857
+Circumstance_Larceny,7,Random Forest,4.722206292288294e-06
+Circumstance_Lovers triangle,7,Random Forest,0.0024327463405197395
+Circumstance_Motor vehicle theft,7,Random Forest,1.5614528121662232e-06
+Circumstance_Narcotic drug laws,7,Random Forest,0.001109246783451472
+Circumstance_Other,7,Random Forest,0.014320461827299678
+Circumstance_Other - not specified,7,Random Forest,0.001540530464567048
+Circumstance_Other arguments,7,Random Forest,0.06709715927389032
+Circumstance_Other negligent handling of gun,7,Random Forest,1.890588356314262e-07
+Circumstance_Other sex offense,7,Random Forest,3.1906759584542884e-06
+Circumstance_Prostitution and commercialized vice,7,Random Forest,9.364797317653306e-07
+Circumstance_Rape,7,Random Forest,8.22519703925409e-05
+Circumstance_Robbery,7,Random Forest,0.002534866412109681
+Circumstance_Sniper attack,7,Random Forest,2.0650203989852897e-06
+Year,7,XGBoost,0.1831120103597641
+VicAge,7,XGBoost,0.11656548827886581
+VicCount,7,XGBoost,0.036215782165527344
+OffCount,7,XGBoost,0.4533742070198059
+Monthly_Overlap,7,XGBoost,0.11189835518598557
+FTSWORN,7,XGBoost,0.09517324715852737
+PTSWORN,7,XGBoost,0.01101551204919815
+TOTFTEMP,7,XGBoost,0.061572615057229996
+OPBUDGET,7,XGBoost,0.05392773076891899
+DET_SWN,7,XGBoost,0.05575958639383316
+PERS_TRN_ACAD,7,XGBoost,0.050519198179244995
+PERS_TRN_INSVC,7,XGBoost,0.029647164046764374
+PERS_EDU_MIN,7,XGBoost,0.01462238933891058
+PovertyRate,7,XGBoost,0.05417842045426369
+UnemploymentRate,7,XGBoost,0.1047825813293457
+State_Alabama,7,XGBoost,0.0058702146634459496
+State_Alaska,7,XGBoost,0.00023370905546471477
+State_Arizona,7,XGBoost,0.0026102717965841293
+State_Arkansas,7,XGBoost,0.004619608633220196
+State_California,7,XGBoost,0.12021027505397797
+State_Colorado,7,XGBoost,0.0023565173614770174
+State_Connecticut,7,XGBoost,0.0013248302275314927
+State_Delaware,7,XGBoost,0.001793689327314496
+State_District of Columbia,7,XGBoost,0.011621227487921715
+State_Florida,7,XGBoost,0.010941077023744583
+State_Georgia,7,XGBoost,0.004762753844261169
+State_Hawaii,7,XGBoost,0.0
+State_Idaho,7,XGBoost,0.0006441727164201438
+State_Illinois,7,XGBoost,0.005923675373196602
+State_Indiana,7,XGBoost,0.0019469722174108028
+State_Iowa,7,XGBoost,0.0018169007962569594
+State_Kansas,7,XGBoost,0.002874424448236823
+State_Kentucky,7,XGBoost,0.0016973520396277308
+State_Louisiana,7,XGBoost,0.005287687294185162
+State_Maine,7,XGBoost,0.0005732323043048382
+State_Maryland,7,XGBoost,0.0022422124166041613
+State_Massachusetts,7,XGBoost,0.001341767841950059
+State_Michigan,7,XGBoost,0.005873558577150106
+State_Minnesota,7,XGBoost,0.003167080460116267
+State_Mississippi,7,XGBoost,0.007797127589583397
+State_Missouri,7,XGBoost,0.002569088013842702
+State_Montana,7,XGBoost,0.0001565645361552015
+State_Nebraska,7,XGBoost,0.0
+State_Nevada,7,XGBoost,0.0020972031634300947
+State_New Hampshire,7,XGBoost,0.0
+State_New Jersey,7,XGBoost,0.0021609971299767494
+State_New Mexico,7,XGBoost,0.0018276703776791692
+State_New York,7,XGBoost,0.004960081074386835
+State_North Carolina,7,XGBoost,0.001397557556629181
+State_North Dakota,7,XGBoost,0.0003826522151939571
+State_Ohio,7,XGBoost,0.004297839943319559
+State_Oklahoma,7,XGBoost,0.001042165094986558
+State_Oregon,7,XGBoost,0.000155864967382513
+State_Pennsylvania,7,XGBoost,0.01135551929473877
+State_Rhode Island,7,XGBoost,1.6147583664860576e-05
+State_South Carolina,7,XGBoost,0.008794032037258148
+State_South Dakota,7,XGBoost,0.0007172012701630592
+State_Tennessee,7,XGBoost,0.015268557704985142
+State_Texas,7,XGBoost,0.018828339874744415
+State_Utah,7,XGBoost,0.0004567698633763939
+State_Vermont,7,XGBoost,7.030329288681969e-05
+State_Virginia,7,XGBoost,0.009648851118981838
+State_Washington,7,XGBoost,0.0019330867798998952
+State_West Virginia,7,XGBoost,0.0031920205801725388
+State_Wisconsin,7,XGBoost,0.0022664444986730814
+State_Wyoming,7,XGBoost,0.0
+Agentype_County police,7,XGBoost,0.0008618748397566378
+Agentype_Municipal police,7,XGBoost,0.03207194805145264
+Agentype_Primary federal LE,7,XGBoost,0.0
+Agentype_Primary state LE,7,XGBoost,0.005168421659618616
+Agentype_Regional police,7,XGBoost,0.0
+Agentype_Sheriff,7,XGBoost,0.015741365030407906
+Agentype_Special police,7,XGBoost,5.382001108955592e-05
+Agentype_Tribal,7,XGBoost,3.9445687434636056e-05
+Month_April,7,XGBoost,0.0007074397290125489
+Month_August,7,XGBoost,0.002017477061599493
+Month_December,7,XGBoost,0.02511519007384777
+Month_February,7,XGBoost,0.007430704310536385
+Month_January,7,XGBoost,0.0046346113085746765
+Month_July,7,XGBoost,0.000653460796456784
+Month_June,7,XGBoost,0.0007496600737795234
+Month_March,7,XGBoost,0.0023499312810599804
+Month_May,7,XGBoost,0.00032358014141209424
+Month_November,7,XGBoost,0.0161714069545269
+Month_October,7,XGBoost,0.009301794692873955
+Month_September,7,XGBoost,0.00373298698104918
+VicSex_Female,7,XGBoost,0.141764834523201
+VicSex_Male,7,XGBoost,0.011236157268285751
+VicSex_Unknown,7,XGBoost,0.0008401148370467126
+VicRace_American Indian or Alaskan Native,7,XGBoost,0.0
+VicRace_Asian,7,XGBoost,0.00020047098223585635
+VicRace_Black,7,XGBoost,0.032620616257190704
+VicRace_Native Hawaiian or Pacific Islander,7,XGBoost,0.0
+VicRace_Unknown,7,XGBoost,0.0017625624313950539
+VicRace_White,7,XGBoost,0.04870690032839775
+Weapon_Asphyxiation - includes death by gas,7,XGBoost,0.0009052334353327751
+"Weapon_Blunt object - hammer, club, etc",7,XGBoost,0.004510222002863884
+Weapon_Drowning,7,XGBoost,0.0002840904926415533
+Weapon_Explosives,7,XGBoost,0.0004454718146007508
+Weapon_Fire,7,XGBoost,0.0005289595574140549
+"Weapon_Firearm, type not stated",7,XGBoost,0.10131792724132538
+"Weapon_Handgun - pistol, revolver, etc",7,XGBoost,0.029969774186611176
+Weapon_Knife or cutting instrument,7,XGBoost,0.09313320368528366
+"Weapon_Narcotics or drugs, sleeping pills",7,XGBoost,0.0010610802564769983
+Weapon_Other gun,7,XGBoost,0.006363600958138704
+Weapon_Other or type unknown,7,XGBoost,0.04829416796565056
+"Weapon_Personal weapons, includes beating",7,XGBoost,0.028337711468338966
+Weapon_Poison - does not include gas,7,XGBoost,0.0002179103175876662
+Weapon_Pushed or thrown out window,7,XGBoost,0.00025761808501556516
+Weapon_Rifle,7,XGBoost,0.028479572385549545
+Weapon_Shotgun,7,XGBoost,0.03774988651275635
+Weapon_Strangulation - hanging,7,XGBoost,0.008281766436994076
+Weapon_Weapon Not Reported,7,XGBoost,0.0024295959156006575
+Circumstance_All other manslaughter by negligence,7,XGBoost,0.0018028401536867023
+Circumstance_All suspected felony type,7,XGBoost,0.05404980108141899
+Circumstance_Argument over money or property,7,XGBoost,0.052604854106903076
+Circumstance_Arson,7,XGBoost,0.009903457947075367
+Circumstance_Brawl due to influence of alcohol,7,XGBoost,0.04680950194597244
+Circumstance_Brawl due to influence of narcotics,7,XGBoost,0.0027522644959390163
+Circumstance_Burglary,7,XGBoost,0.0041436245664954185
+Circumstance_Child killed by babysitter,7,XGBoost,0.00404840474948287
+Circumstance_Circumstances undetermined,7,XGBoost,0.7129577398300171
+Circumstance_Felon killed by police,7,XGBoost,0.05749309062957764
+Circumstance_Felon killed by private citizen,7,XGBoost,0.06715518981218338
+Circumstance_Gambling,7,XGBoost,0.003052968531847
+Circumstance_Gangland killings,7,XGBoost,0.0111981937661767
+Circumstance_Institutional killings,7,XGBoost,0.0016836465802043676
+Circumstance_Juvenile gang killings,7,XGBoost,0.02394740656018257
+Circumstance_Larceny,7,XGBoost,0.0011277229059487581
+Circumstance_Lovers triangle,7,XGBoost,0.05592970550060272
+Circumstance_Motor vehicle theft,7,XGBoost,0.00032562989508733153
+Circumstance_Narcotic drug laws,7,XGBoost,0.01714438758790493
+Circumstance_Other,7,XGBoost,0.08031933009624481
+Circumstance_Other - not specified,7,XGBoost,0.030758196488022804
+Circumstance_Other arguments,7,XGBoost,0.4701833724975586
+Circumstance_Other negligent handling of gun,7,XGBoost,0.0006089178496040404
+Circumstance_Other sex offense,7,XGBoost,0.00033075979445129633
+Circumstance_Prostitution and commercialized vice,7,XGBoost,0.0
+Circumstance_Rape,7,XGBoost,0.002873712684959173
+Circumstance_Robbery,7,XGBoost,0.04170679301023483
+Circumstance_Sniper attack,7,XGBoost,0.0010909093543887138
+Year,8,Random Forest,0.004084025950928435
+VicAge,8,Random Forest,0.005077789142115466
+VicCount,8,Random Forest,0.0007149473757742671
+OffCount,8,Random Forest,0.03459020843643955
+Monthly_Overlap,8,Random Forest,0.020752808751682724
+FTSWORN,8,Random Forest,0.007491903340706219
+PTSWORN,8,Random Forest,0.000626104373133845
+TOTFTEMP,8,Random Forest,0.01126835055192513
+OPBUDGET,8,Random Forest,0.012305736741636911
+DET_SWN,8,Random Forest,0.009283516393271737
+PERS_TRN_ACAD,8,Random Forest,0.003541696785256359
+PERS_TRN_INSVC,8,Random Forest,0.0016639070461171993
+PERS_EDU_MIN,8,Random Forest,0.001336349042543098
+PovertyRate,8,Random Forest,0.002864404026835285
+UnemploymentRate,8,Random Forest,0.012895039174688629
+State_Alabama,8,Random Forest,9.85217166333782e-05
+State_Alaska,8,Random Forest,2.523267669070302e-06
+State_Arizona,8,Random Forest,4.2364419530689305e-05
+State_Arkansas,8,Random Forest,2.832054729305237e-05
+State_California,8,Random Forest,0.007473345600057906
+State_Colorado,8,Random Forest,6.838068920809095e-05
+State_Connecticut,8,Random Forest,3.171287898978209e-05
+State_Delaware,8,Random Forest,2.2296254479815103e-06
+State_District of Columbia,8,Random Forest,0.0004909557921554797
+State_Florida,8,Random Forest,0.0004223222230579658
+State_Georgia,8,Random Forest,0.00012172469514294829
+State_Hawaii,8,Random Forest,8.937021512366864e-06
+State_Idaho,8,Random Forest,1.4732443721966036e-05
+State_Illinois,8,Random Forest,0.0002699671352256795
+State_Indiana,8,Random Forest,0.0001244700997488937
+State_Iowa,8,Random Forest,8.54048896548334e-06
+State_Kansas,8,Random Forest,2.012938090276866e-05
+State_Kentucky,8,Random Forest,1.3475031108886237e-05
+State_Louisiana,8,Random Forest,6.609718722629624e-05
+State_Maine,8,Random Forest,1.0494978753907784e-05
+State_Maryland,8,Random Forest,0.00023178849685647352
+State_Massachusetts,8,Random Forest,1.6240832157969188e-05
+State_Michigan,8,Random Forest,0.00011946610481511516
+State_Minnesota,8,Random Forest,1.7474240340702898e-05
+State_Mississippi,8,Random Forest,0.00013974129237426038
+State_Missouri,8,Random Forest,0.00011473803581217745
+State_Montana,8,Random Forest,8.127114525314832e-07
+State_Nebraska,8,Random Forest,3.4916738692494338e-06
+State_Nevada,8,Random Forest,2.5234310432515227e-05
+State_New Hampshire,8,Random Forest,1.5000945174717433e-06
+State_New Jersey,8,Random Forest,0.0001713807797980872
+State_New Mexico,8,Random Forest,1.1526613786483921e-05
+State_New York,8,Random Forest,0.0008255614071023264
+State_North Carolina,8,Random Forest,0.00011771682910354131
+State_North Dakota,8,Random Forest,2.2581571100852953e-06
+State_Ohio,8,Random Forest,3.868965475780447e-05
+State_Oklahoma,8,Random Forest,8.415416064271112e-05
+State_Oregon,8,Random Forest,3.898564213155e-06
+State_Pennsylvania,8,Random Forest,0.00011209668714559495
+State_Rhode Island,8,Random Forest,1.0276402717197792e-06
+State_South Carolina,8,Random Forest,0.00041784241864179373
+State_South Dakota,8,Random Forest,9.109869055086456e-07
+State_Tennessee,8,Random Forest,0.0004470503813763761
+State_Texas,8,Random Forest,0.0017663044915644647
+State_Utah,8,Random Forest,4.5292773976367545e-06
+State_Vermont,8,Random Forest,4.838180233713782e-07
+State_Virginia,8,Random Forest,0.00013641314736887304
+State_Washington,8,Random Forest,3.740811965456995e-05
+State_West Virginia,8,Random Forest,2.3575303204842788e-05
+State_Wisconsin,8,Random Forest,4.39239908433301e-05
+State_Wyoming,8,Random Forest,9.507431268902141e-07
+Agentype_County police,8,Random Forest,7.477111845242752e-05
+Agentype_Municipal police,8,Random Forest,0.0053810904174621775
+Agentype_Primary federal LE,8,Random Forest,3.565937065946746e-07
+Agentype_Primary state LE,8,Random Forest,0.00021875645152470404
+Agentype_Regional police,8,Random Forest,4.987239888305507e-07
+Agentype_Sheriff,8,Random Forest,0.003493333618458967
+Agentype_Special police,8,Random Forest,4.241326098338187e-06
+Agentype_Tribal,8,Random Forest,6.029500793930081e-07
+Month_April,8,Random Forest,3.7463066937506966e-05
+Month_August,8,Random Forest,3.4311568244377195e-05
+Month_December,8,Random Forest,6.724437916314986e-05
+Month_February,8,Random Forest,3.468952701440361e-05
+Month_January,8,Random Forest,4.722705508237127e-05
+Month_July,8,Random Forest,3.5355811144835297e-05
+Month_June,8,Random Forest,3.026386567619876e-05
+Month_March,8,Random Forest,3.38176410881347e-05
+Month_May,8,Random Forest,3.399002841843981e-05
+Month_November,8,Random Forest,7.06391484509402e-05
+Month_October,8,Random Forest,2.8528954934773104e-05
+Month_September,8,Random Forest,3.656120631185206e-05
+VicSex_Female,8,Random Forest,0.008340155639956614
+VicSex_Male,8,Random Forest,0.005601718329081471
+VicSex_Unknown,8,Random Forest,5.266368619660984e-06
+VicRace_American Indian or Alaskan Native,8,Random Forest,7.701236791025552e-06
+VicRace_Asian,8,Random Forest,1.526212149244416e-05
+VicRace_Black,8,Random Forest,0.005078035433243193
+VicRace_Native Hawaiian or Pacific Islander,8,Random Forest,5.917879837237675e-07
+VicRace_Unknown,8,Random Forest,2.6362276222990054e-05
+VicRace_White,8,Random Forest,0.004998889489874738
+Weapon_Asphyxiation - includes death by gas,8,Random Forest,5.9480664742473734e-06
+"Weapon_Blunt object - hammer, club, etc",8,Random Forest,0.00011433055205337742
+Weapon_Drowning,8,Random Forest,3.4591357614781027e-06
+Weapon_Explosives,8,Random Forest,1.1814537760229386e-06
+Weapon_Fire,8,Random Forest,6.346967488952133e-05
+"Weapon_Firearm, type not stated",8,Random Forest,0.010578785306294275
+"Weapon_Handgun - pistol, revolver, etc",8,Random Forest,0.0015252650367439523
+Weapon_Knife or cutting instrument,8,Random Forest,0.006191408710492668
+"Weapon_Narcotics or drugs, sleeping pills",8,Random Forest,1.3778834558329628e-05
+Weapon_Other gun,8,Random Forest,4.967508321047156e-05
+Weapon_Other or type unknown,8,Random Forest,0.001999176061161766
+"Weapon_Personal weapons, includes beating",8,Random Forest,0.0018406263634466083
+Weapon_Poison - does not include gas,8,Random Forest,1.1947939597108396e-06
+Weapon_Pushed or thrown out window,8,Random Forest,4.420433442422128e-07
+Weapon_Rifle,8,Random Forest,0.0007825835642382245
+Weapon_Shotgun,8,Random Forest,0.0011342210397956522
+Weapon_Strangulation - hanging,8,Random Forest,0.00037316935986240666
+Weapon_Weapon Not Reported,8,Random Forest,2.9459787836624545e-05
+Circumstance_All other manslaughter by negligence,8,Random Forest,4.708392277055669e-06
+Circumstance_All suspected felony type,8,Random Forest,0.004159376355242209
+Circumstance_Argument over money or property,8,Random Forest,0.0034973883447077946
+Circumstance_Arson,8,Random Forest,0.00014719421091888778
+Circumstance_Brawl due to influence of alcohol,8,Random Forest,0.00251560952092315
+Circumstance_Brawl due to influence of narcotics,8,Random Forest,5.997111856539929e-05
+Circumstance_Burglary,8,Random Forest,8.09705152249341e-05
+Circumstance_Child killed by babysitter,8,Random Forest,4.060529853727279e-05
+Circumstance_Circumstances undetermined,8,Random Forest,0.08376748042392151
+Circumstance_Felon killed by police,8,Random Forest,0.002546409536098099
+Circumstance_Felon killed by private citizen,8,Random Forest,0.003981914636035987
+Circumstance_Gambling,8,Random Forest,1.1557478528313579e-05
+Circumstance_Gangland killings,8,Random Forest,0.0002641680726188948
+Circumstance_Institutional killings,8,Random Forest,7.251184530033936e-06
+Circumstance_Juvenile gang killings,8,Random Forest,0.0025165792636298273
+Circumstance_Larceny,8,Random Forest,2.1343681677085736e-06
+Circumstance_Lovers triangle,8,Random Forest,0.0024353225662963
+Circumstance_Motor vehicle theft,8,Random Forest,4.473178463077508e-06
+Circumstance_Narcotic drug laws,8,Random Forest,0.0011698698073850807
+Circumstance_Other,8,Random Forest,0.014077317459494086
+Circumstance_Other - not specified,8,Random Forest,0.001427005254071901
+Circumstance_Other arguments,8,Random Forest,0.06572306568285027
+Circumstance_Other negligent handling of gun,8,Random Forest,2.5183596531804333e-07
+Circumstance_Other sex offense,8,Random Forest,3.048417095488359e-06
+Circumstance_Prostitution and commercialized vice,8,Random Forest,1.8306907973820285e-06
+Circumstance_Rape,8,Random Forest,9.66099057475507e-05
+Circumstance_Robbery,8,Random Forest,0.0025626489246104995
+Circumstance_Sniper attack,8,Random Forest,2.2411235157441115e-06
+Year,8,XGBoost,0.18295273184776306
+VicAge,8,XGBoost,0.12012162804603577
+VicCount,8,XGBoost,0.03724287450313568
+OffCount,8,XGBoost,0.45982691645622253
+Monthly_Overlap,8,XGBoost,0.11625564098358154
+FTSWORN,8,XGBoost,0.060761306434869766
+PTSWORN,8,XGBoost,0.01196625828742981
+TOTFTEMP,8,XGBoost,0.0548035204410553
+OPBUDGET,8,XGBoost,0.06562801450490952
+DET_SWN,8,XGBoost,0.055792585015296936
+PERS_TRN_ACAD,8,XGBoost,0.05773560330271721
+PERS_TRN_INSVC,8,XGBoost,0.030405091121792793
+PERS_EDU_MIN,8,XGBoost,0.010669142007827759
+PovertyRate,8,XGBoost,0.06133126839995384
+UnemploymentRate,8,XGBoost,0.10204516351222992
+State_Alabama,8,XGBoost,0.007436635438352823
+State_Alaska,8,XGBoost,1.7610918803256936e-05
+State_Arizona,8,XGBoost,0.0012404319131746888
+State_Arkansas,8,XGBoost,0.005428725387901068
+State_California,8,XGBoost,0.11862736195325851
+State_Colorado,8,XGBoost,0.00357749848626554
+State_Connecticut,8,XGBoost,0.001320490031503141
+State_Delaware,8,XGBoost,0.0015431754291057587
+State_District of Columbia,8,XGBoost,0.009066599421203136
+State_Florida,8,XGBoost,0.01286222692579031
+State_Georgia,8,XGBoost,0.006335935089737177
+State_Hawaii,8,XGBoost,0.0
+State_Idaho,8,XGBoost,0.0005660229362547398
+State_Illinois,8,XGBoost,0.0019201537361368537
+State_Indiana,8,XGBoost,0.0035620760172605515
+State_Iowa,8,XGBoost,0.0014590745558962226
+State_Kansas,8,XGBoost,0.003872164059430361
+State_Kentucky,8,XGBoost,0.0015641925856471062
+State_Louisiana,8,XGBoost,0.004137006122618914
+State_Maine,8,XGBoost,0.0009083219920285046
+State_Maryland,8,XGBoost,0.0021140852477401495
+State_Massachusetts,8,XGBoost,0.0014567413600161672
+State_Michigan,8,XGBoost,0.004810119979083538
+State_Minnesota,8,XGBoost,0.0031035447027534246
+State_Mississippi,8,XGBoost,0.005927643738687038
+State_Missouri,8,XGBoost,0.000962576421443373
+State_Montana,8,XGBoost,0.0003042659373022616
+State_Nebraska,8,XGBoost,0.0
+State_Nevada,8,XGBoost,0.0016535769682377577
+State_New Hampshire,8,XGBoost,0.0
+State_New Jersey,8,XGBoost,0.0025919151958078146
+State_New Mexico,8,XGBoost,0.0017812756123021245
+State_New York,8,XGBoost,0.009648921899497509
+State_North Carolina,8,XGBoost,0.0016858361195772886
+State_North Dakota,8,XGBoost,0.0005266023799777031
+State_Ohio,8,XGBoost,0.002824940253049135
+State_Oklahoma,8,XGBoost,0.0009496552520431578
+State_Oregon,8,XGBoost,0.0
+State_Pennsylvania,8,XGBoost,0.011188752949237823
+State_Rhode Island,8,XGBoost,0.0
+State_South Carolina,8,XGBoost,0.006851026322692633
+State_South Dakota,8,XGBoost,0.0006559524335898459
+State_Tennessee,8,XGBoost,0.012567803263664246
+State_Texas,8,XGBoost,0.02411215752363205
+State_Utah,8,XGBoost,0.0
+State_Vermont,8,XGBoost,0.00014793813170399517
+State_Virginia,8,XGBoost,0.008379563689231873
+State_Washington,8,XGBoost,0.002433055778965354
+State_West Virginia,8,XGBoost,0.0033226169180125
+State_Wisconsin,8,XGBoost,0.0005957034882158041
+State_Wyoming,8,XGBoost,0.0001566264545544982
+Agentype_County police,8,XGBoost,0.0008055304642766714
+Agentype_Municipal police,8,XGBoost,0.04330841824412346
+Agentype_Primary federal LE,8,XGBoost,0.0
+Agentype_Primary state LE,8,XGBoost,0.00358387129381299
+Agentype_Regional police,8,XGBoost,0.0
+Agentype_Sheriff,8,XGBoost,0.0023904915433377028
+Agentype_Special police,8,XGBoost,0.0
+Agentype_Tribal,8,XGBoost,3.9472732169087976e-05
+Month_April,8,XGBoost,0.0019815058913081884
+Month_August,8,XGBoost,0.0006949402159079909
+Month_December,8,XGBoost,0.021587109193205833
+Month_February,8,XGBoost,0.006301162298768759
+Month_January,8,XGBoost,0.0062749688513576984
+Month_July,8,XGBoost,0.0006513261469081044
+Month_June,8,XGBoost,0.0002712859713938087
+Month_March,8,XGBoost,0.004054022952914238
+Month_May,8,XGBoost,0.0018254523165524006
+Month_November,8,XGBoost,0.01525177527219057
+Month_October,8,XGBoost,0.006960475817322731
+Month_September,8,XGBoost,0.00045355313341133296
+VicSex_Female,8,XGBoost,0.14647552371025085
+VicSex_Male,8,XGBoost,0.005982476752251387
+VicSex_Unknown,8,XGBoost,0.0007970319129526615
+VicRace_American Indian or Alaskan Native,8,XGBoost,0.0002639417361933738
+VicRace_Asian,8,XGBoost,0.00012039690773235634
+VicRace_Black,8,XGBoost,0.055548761039972305
+VicRace_Native Hawaiian or Pacific Islander,8,XGBoost,0.0
+VicRace_Unknown,8,XGBoost,0.002182063879445195
+VicRace_White,8,XGBoost,0.02599582076072693
+Weapon_Asphyxiation - includes death by gas,8,XGBoost,0.0009717749198898673
+"Weapon_Blunt object - hammer, club, etc",8,XGBoost,0.005644653923809528
+Weapon_Drowning,8,XGBoost,0.00022742603323422372
+Weapon_Explosives,8,XGBoost,0.00042122777085751295
+Weapon_Fire,8,XGBoost,0.0006868389318697155
+"Weapon_Firearm, type not stated",8,XGBoost,0.10547051578760147
+"Weapon_Handgun - pistol, revolver, etc",8,XGBoost,0.028819791972637177
+Weapon_Knife or cutting instrument,8,XGBoost,0.0856650099158287
+"Weapon_Narcotics or drugs, sleeping pills",8,XGBoost,0.0007202376727946103
+Weapon_Other gun,8,XGBoost,0.005796065088361502
+Weapon_Other or type unknown,8,XGBoost,0.04856619983911514
+"Weapon_Personal weapons, includes beating",8,XGBoost,0.02771882154047489
+Weapon_Poison - does not include gas,8,XGBoost,0.00014758524775970727
+Weapon_Pushed or thrown out window,8,XGBoost,0.0002357935591135174
+Weapon_Rifle,8,XGBoost,0.023323576897382736
+Weapon_Shotgun,8,XGBoost,0.037826042622327805
+Weapon_Strangulation - hanging,8,XGBoost,0.008557477034628391
+Weapon_Weapon Not Reported,8,XGBoost,0.0024849395267665386
+Circumstance_All other manslaughter by negligence,8,XGBoost,0.0019468525424599648
+Circumstance_All suspected felony type,8,XGBoost,0.04784604534506798
+Circumstance_Argument over money or property,8,XGBoost,0.05659935250878334
+Circumstance_Arson,8,XGBoost,0.007360100746154785
+Circumstance_Brawl due to influence of alcohol,8,XGBoost,0.049367353320121765
+Circumstance_Brawl due to influence of narcotics,8,XGBoost,0.0056893471628427505
+Circumstance_Burglary,8,XGBoost,0.002307270187884569
+Circumstance_Child killed by babysitter,8,XGBoost,0.0038603453431278467
+Circumstance_Circumstances undetermined,8,XGBoost,0.6931450366973877
+Circumstance_Felon killed by police,8,XGBoost,0.059845369309186935
+Circumstance_Felon killed by private citizen,8,XGBoost,0.06878498196601868
+Circumstance_Gambling,8,XGBoost,0.0032031554728746414
+Circumstance_Gangland killings,8,XGBoost,0.008353754878044128
+Circumstance_Institutional killings,8,XGBoost,0.00202522543258965
+Circumstance_Juvenile gang killings,8,XGBoost,0.022270863875746727
+Circumstance_Larceny,8,XGBoost,0.0012995698489248753
+Circumstance_Lovers triangle,8,XGBoost,0.058726489543914795
+Circumstance_Motor vehicle theft,8,XGBoost,0.0006125703221186996
+Circumstance_Narcotic drug laws,8,XGBoost,0.008578178472816944
+Circumstance_Other,8,XGBoost,0.1004224494099617
+Circumstance_Other - not specified,8,XGBoost,0.022000866010785103
+Circumstance_Other arguments,8,XGBoost,0.5051532983779907
+Circumstance_Other negligent handling of gun,8,XGBoost,0.0006794179789721966
+Circumstance_Other sex offense,8,XGBoost,0.0011576733086258173
+Circumstance_Prostitution and commercialized vice,8,XGBoost,4.001339402748272e-05
+Circumstance_Rape,8,XGBoost,0.0019058232428506017
+Circumstance_Robbery,8,XGBoost,0.028547286987304688
+Circumstance_Sniper attack,8,XGBoost,0.0008327707182615995
+Year,9,Random Forest,0.0041732430598783255
+VicAge,9,Random Forest,0.004954688627980755
+VicCount,9,Random Forest,0.0008105083785078606
+OffCount,9,Random Forest,0.037371713459662205
+Monthly_Overlap,9,Random Forest,0.024000802844392034
+FTSWORN,9,Random Forest,0.007758327646092368
+PTSWORN,9,Random Forest,0.0008711003277359572
+TOTFTEMP,9,Random Forest,0.012079774471474746
+OPBUDGET,9,Random Forest,0.012230416653134046
+DET_SWN,9,Random Forest,0.007999080884350637
+PERS_TRN_ACAD,9,Random Forest,0.003969858047531549
+PERS_TRN_INSVC,9,Random Forest,0.0019617397923654863
+PERS_EDU_MIN,9,Random Forest,0.0009997188954715501
+PovertyRate,9,Random Forest,0.0028338969116408464
+UnemploymentRate,9,Random Forest,0.011636144181163972
+State_Alabama,9,Random Forest,8.026858762020808e-05
+State_Alaska,9,Random Forest,3.3039431240946826e-06
+State_Arizona,9,Random Forest,5.7284364309193275e-05
+State_Arkansas,9,Random Forest,2.6780226787017603e-05
+State_California,9,Random Forest,0.007196819506320854
+State_Colorado,9,Random Forest,2.626086024215928e-05
+State_Connecticut,9,Random Forest,2.7967210149152385e-05
+State_Delaware,9,Random Forest,6.089768333572914e-06
+State_District of Columbia,9,Random Forest,0.0005562453520186963
+State_Florida,9,Random Forest,0.0003723345544618238
+State_Georgia,9,Random Forest,0.0001666328095344069
+State_Hawaii,9,Random Forest,4.8613302306569775e-06
+State_Idaho,9,Random Forest,9.804721260742835e-06
+State_Illinois,9,Random Forest,0.00016761458352279647
+State_Indiana,9,Random Forest,7.054532426426439e-05
+State_Iowa,9,Random Forest,6.379979328448899e-06
+State_Kansas,9,Random Forest,2.0419170994843063e-05
+State_Kentucky,9,Random Forest,1.4847768203280865e-05
+State_Louisiana,9,Random Forest,6.699557819382286e-05
+State_Maine,9,Random Forest,9.23816338111854e-07
+State_Maryland,9,Random Forest,0.0002172030016655207
+State_Massachusetts,9,Random Forest,3.013360615543773e-05
+State_Michigan,9,Random Forest,7.377815498076727e-05
+State_Minnesota,9,Random Forest,1.9779275485589017e-05
+State_Mississippi,9,Random Forest,9.14389119772948e-05
+State_Missouri,9,Random Forest,0.0001950896264736722
+State_Montana,9,Random Forest,2.730467566508699e-06
+State_Nebraska,9,Random Forest,3.462230539034163e-06
+State_Nevada,9,Random Forest,3.081439448275504e-05
+State_New Hampshire,9,Random Forest,7.676892207315584e-07
+State_New Jersey,9,Random Forest,0.00022461775690955213
+State_New Mexico,9,Random Forest,1.345202514843479e-05
+State_New York,9,Random Forest,0.0006533936016429362
+State_North Carolina,9,Random Forest,0.00016948947694137828
+State_North Dakota,9,Random Forest,1.867377727018703e-06
+State_Ohio,9,Random Forest,3.149707188769658e-05
+State_Oklahoma,9,Random Forest,7.065982053702738e-05
+State_Oregon,9,Random Forest,3.5395405095311867e-06
+State_Pennsylvania,9,Random Forest,0.00014802387108002688
+State_Rhode Island,9,Random Forest,3.0533507769720813e-06
+State_South Carolina,9,Random Forest,0.00037641146100052215
+State_South Dakota,9,Random Forest,2.9722424519534877e-06
+State_Tennessee,9,Random Forest,0.0005649728706456447
+State_Texas,9,Random Forest,0.0020154875280947674
+State_Utah,9,Random Forest,5.08174419426626e-06
+State_Vermont,9,Random Forest,1.1805240487391838e-06
+State_Virginia,9,Random Forest,0.00013366742944954908
+State_Washington,9,Random Forest,2.0726047295696725e-05
+State_West Virginia,9,Random Forest,1.686946315533269e-05
+State_Wisconsin,9,Random Forest,1.9036599023016268e-05
+State_Wyoming,9,Random Forest,1.6341299812154936e-06
+Agentype_County police,9,Random Forest,7.004534539479542e-05
+Agentype_Municipal police,9,Random Forest,0.005372079792158031
+Agentype_Primary federal LE,9,Random Forest,2.406972360458822e-07
+Agentype_Primary state LE,9,Random Forest,0.00020590056567489716
+Agentype_Regional police,9,Random Forest,2.1433306048057452e-07
+Agentype_Sheriff,9,Random Forest,0.0034535249697357283
+Agentype_Special police,9,Random Forest,1.8564402360604807e-06
+Agentype_Tribal,9,Random Forest,1.1914968492517124e-06
+Month_April,9,Random Forest,3.0946879728528934e-05
+Month_August,9,Random Forest,2.9892844665648434e-05
+Month_December,9,Random Forest,0.00011185004583456414
+Month_February,9,Random Forest,5.147793906333637e-05
+Month_January,9,Random Forest,3.3705036145235354e-05
+Month_July,9,Random Forest,3.526111296024124e-05
+Month_June,9,Random Forest,2.6863384062997717e-05
+Month_March,9,Random Forest,3.633111926695602e-05
+Month_May,9,Random Forest,3.32349488014993e-05
+Month_November,9,Random Forest,9.686385398517652e-05
+Month_October,9,Random Forest,3.761052060086454e-05
+Month_September,9,Random Forest,3.0429505636635958e-05
+VicSex_Female,9,Random Forest,0.008489467053751136
+VicSex_Male,9,Random Forest,0.005234909377843331
+VicSex_Unknown,9,Random Forest,5.5728930842738775e-06
+VicRace_American Indian or Alaskan Native,9,Random Forest,1.0051106678577268e-05
+VicRace_Asian,9,Random Forest,2.1245474646093853e-05
+VicRace_Black,9,Random Forest,0.006040541179026469
+VicRace_Native Hawaiian or Pacific Islander,9,Random Forest,5.257936616061176e-07
+VicRace_Unknown,9,Random Forest,3.056631792454197e-05
+VicRace_White,9,Random Forest,0.00550045618849565
+Weapon_Asphyxiation - includes death by gas,9,Random Forest,7.899407612707798e-06
+"Weapon_Blunt object - hammer, club, etc",9,Random Forest,0.00013467880131566644
+Weapon_Drowning,9,Random Forest,2.460970375343606e-06
+Weapon_Explosives,9,Random Forest,1.4969558569957577e-06
+Weapon_Fire,9,Random Forest,5.5906734372862275e-05
+"Weapon_Firearm, type not stated",9,Random Forest,0.011029757328064061
+"Weapon_Handgun - pistol, revolver, etc",9,Random Forest,0.0019977210982405885
+Weapon_Knife or cutting instrument,9,Random Forest,0.005858380037898136
+"Weapon_Narcotics or drugs, sleeping pills",9,Random Forest,3.62197384245574e-06
+Weapon_Other gun,9,Random Forest,3.893953496869276e-05
+Weapon_Other or type unknown,9,Random Forest,0.0020216842098736954
+"Weapon_Personal weapons, includes beating",9,Random Forest,0.0017380720705876098
+Weapon_Poison - does not include gas,9,Random Forest,8.44105896325222e-07
+Weapon_Pushed or thrown out window,9,Random Forest,2.1002668705694153e-07
+Weapon_Rifle,9,Random Forest,0.0009944722844511791
+Weapon_Shotgun,9,Random Forest,0.0013544636001524219
+Weapon_Strangulation - hanging,9,Random Forest,0.0003622262392331761
+Weapon_Weapon Not Reported,9,Random Forest,4.0995917647578635e-05
+Circumstance_All other manslaughter by negligence,9,Random Forest,3.186196776762088e-06
+Circumstance_All suspected felony type,9,Random Forest,0.004130398559706824
+Circumstance_Argument over money or property,9,Random Forest,0.0033933461664006023
+Circumstance_Arson,9,Random Forest,0.0001916820919302901
+Circumstance_Brawl due to influence of alcohol,9,Random Forest,0.002887913058230803
+Circumstance_Brawl due to influence of narcotics,9,Random Forest,6.82212220112509e-05
+Circumstance_Burglary,9,Random Forest,9.088281886777115e-05
+Circumstance_Child killed by babysitter,9,Random Forest,4.991078560041042e-05
+Circumstance_Circumstances undetermined,9,Random Forest,0.08190862201525284
+Circumstance_Felon killed by police,9,Random Forest,0.001999292021563725
+Circumstance_Felon killed by private citizen,9,Random Forest,0.0036598883774565253
+Circumstance_Gambling,9,Random Forest,5.106448476678395e-06
+Circumstance_Gangland killings,9,Random Forest,0.00018357929173998518
+Circumstance_Institutional killings,9,Random Forest,5.081643454312689e-06
+Circumstance_Juvenile gang killings,9,Random Forest,0.002845249625381723
+Circumstance_Larceny,9,Random Forest,4.1098348490862065e-06
+Circumstance_Lovers triangle,9,Random Forest,0.002413030824008834
+Circumstance_Motor vehicle theft,9,Random Forest,1.6544262202938796e-06
+Circumstance_Narcotic drug laws,9,Random Forest,0.0009674182603536387
+Circumstance_Other,9,Random Forest,0.012293243938569964
+Circumstance_Other - not specified,9,Random Forest,0.001564628608494532
+Circumstance_Other arguments,9,Random Forest,0.0636144268698681
+Circumstance_Other negligent handling of gun,9,Random Forest,1.478274280518911e-07
+Circumstance_Other sex offense,9,Random Forest,3.571353593327108e-06
+Circumstance_Prostitution and commercialized vice,9,Random Forest,1.1395278493761838e-06
+Circumstance_Rape,9,Random Forest,8.201716937890348e-05
+Circumstance_Robbery,9,Random Forest,0.0025419112614674345
+Circumstance_Sniper attack,9,Random Forest,2.1732816079137676e-06
+Year,9,XGBoost,0.18211498856544495
+VicAge,9,XGBoost,0.11634716391563416
+VicCount,9,XGBoost,0.03519122675061226
+OffCount,9,XGBoost,0.4597450792789459
+Monthly_Overlap,9,XGBoost,0.11293697357177734
+FTSWORN,9,XGBoost,0.09432323276996613
+PTSWORN,9,XGBoost,0.007679606322199106
+TOTFTEMP,9,XGBoost,0.059156205505132675
+OPBUDGET,9,XGBoost,0.04784809798002243
+DET_SWN,9,XGBoost,0.06087616831064224
+PERS_TRN_ACAD,9,XGBoost,0.06286876648664474
+PERS_TRN_INSVC,9,XGBoost,0.03297508507966995
+PERS_EDU_MIN,9,XGBoost,0.010731032118201256
+PovertyRate,9,XGBoost,0.043468277901411057
+UnemploymentRate,9,XGBoost,0.09583190828561783
+State_Alabama,9,XGBoost,0.007124345283955336
+State_Alaska,9,XGBoost,0.0
+State_Arizona,9,XGBoost,0.0012150267139077187
+State_Arkansas,9,XGBoost,0.005495165474712849
+State_California,9,XGBoost,0.13100142776966095
+State_Colorado,9,XGBoost,0.0031721009872853756
+State_Connecticut,9,XGBoost,0.0011000664671882987
+State_Delaware,9,XGBoost,0.001817893236875534
+State_District of Columbia,9,XGBoost,0.009578065946698189
+State_Florida,9,XGBoost,0.012255307286977768
+State_Georgia,9,XGBoost,0.005905753467231989
+State_Hawaii,9,XGBoost,0.0
+State_Idaho,9,XGBoost,0.0012306013377383351
+State_Illinois,9,XGBoost,0.00809486210346222
+State_Indiana,9,XGBoost,0.003098776564002037
+State_Iowa,9,XGBoost,0.0014552365755662322
+State_Kansas,9,XGBoost,0.004114193841814995
+State_Kentucky,9,XGBoost,0.0020722830668091774
+State_Louisiana,9,XGBoost,0.0026248018257319927
+State_Maine,9,XGBoost,0.0005436345818452537
+State_Maryland,9,XGBoost,0.0007160326349548995
+State_Massachusetts,9,XGBoost,0.00025239810929633677
+State_Michigan,9,XGBoost,0.003774213371798396
+State_Minnesota,9,XGBoost,0.0026401386130601168
+State_Mississippi,9,XGBoost,0.007305819541215897
+State_Missouri,9,XGBoost,0.0011098531540483236
+State_Montana,9,XGBoost,0.00028800428844988346
+State_Nebraska,9,XGBoost,0.00035357402521185577
+State_Nevada,9,XGBoost,0.0029040626250207424
+State_New Hampshire,9,XGBoost,0.0
+State_New Jersey,9,XGBoost,0.0033778471406549215
+State_New Mexico,9,XGBoost,0.00102076621260494
+State_New York,9,XGBoost,0.007015691138803959
+State_North Carolina,9,XGBoost,0.0046670278534293175
+State_North Dakota,9,XGBoost,0.0006039633299224079
+State_Ohio,9,XGBoost,0.0037176436744630337
+State_Oklahoma,9,XGBoost,0.0015580649487674236
+State_Oregon,9,XGBoost,0.0
+State_Pennsylvania,9,XGBoost,0.011693044565618038
+State_Rhode Island,9,XGBoost,0.0
+State_South Carolina,9,XGBoost,0.01008966751396656
+State_South Dakota,9,XGBoost,0.0006458457792177796
+State_Tennessee,9,XGBoost,0.01516164094209671
+State_Texas,9,XGBoost,0.019907042384147644
+State_Utah,9,XGBoost,0.0004971129237674177
+State_Vermont,9,XGBoost,8.156705007422715e-05
+State_Virginia,9,XGBoost,0.009444857947528362
+State_Washington,9,XGBoost,0.0019399572629481554
+State_West Virginia,9,XGBoost,0.004102707840502262
+State_Wisconsin,9,XGBoost,0.0019503360381349921
+State_Wyoming,9,XGBoost,0.00019815178529825062
+Agentype_County police,9,XGBoost,0.001159789739176631
+Agentype_Municipal police,9,XGBoost,0.028395285829901695
+Agentype_Primary federal LE,9,XGBoost,0.0
+Agentype_Primary state LE,9,XGBoost,0.004171368665993214
+Agentype_Regional police,9,XGBoost,0.0
+Agentype_Sheriff,9,XGBoost,0.02190828137099743
+Agentype_Special police,9,XGBoost,5.836231866851449e-05
+Agentype_Tribal,9,XGBoost,0.0
+Month_April,9,XGBoost,0.00046833130181767046
+Month_August,9,XGBoost,0.00031938496977090836
+Month_December,9,XGBoost,0.023406658321619034
+Month_February,9,XGBoost,0.007146292366087437
+Month_January,9,XGBoost,0.0044512818567454815
+Month_July,9,XGBoost,0.0008074712823145092
+Month_June,9,XGBoost,0.00030286808032542467
+Month_March,9,XGBoost,0.0023103314451873302
+Month_May,9,XGBoost,0.0015567541122436523
+Month_November,9,XGBoost,0.014872740022838116
+Month_October,9,XGBoost,0.007151680067181587
+Month_September,9,XGBoost,0.0035114088095724583
+VicSex_Female,9,XGBoost,0.1460515707731247
+VicSex_Male,9,XGBoost,0.006801331415772438
+VicSex_Unknown,9,XGBoost,0.0007848769892007113
+VicRace_American Indian or Alaskan Native,9,XGBoost,0.00016868866805452853
+VicRace_Asian,9,XGBoost,0.00015820145199541003
+VicRace_Black,9,XGBoost,0.04738667607307434
+VicRace_Native Hawaiian or Pacific Islander,9,XGBoost,0.0
+VicRace_Unknown,9,XGBoost,0.0024103617761284113
+VicRace_White,9,XGBoost,0.03387117758393288
+Weapon_Asphyxiation - includes death by gas,9,XGBoost,0.0008042610716074705
+"Weapon_Blunt object - hammer, club, etc",9,XGBoost,0.0071886321529746056
+Weapon_Drowning,9,XGBoost,0.00031726984889246523
+Weapon_Explosives,9,XGBoost,0.0003926570643670857
+Weapon_Fire,9,XGBoost,0.0006968281231820583
+"Weapon_Firearm, type not stated",9,XGBoost,0.1014186292886734
+"Weapon_Handgun - pistol, revolver, etc",9,XGBoost,0.0268093291670084
+Weapon_Knife or cutting instrument,9,XGBoost,0.08087292313575745
+"Weapon_Narcotics or drugs, sleeping pills",9,XGBoost,0.0003790469781961292
+Weapon_Other gun,9,XGBoost,0.005508380942046642
+Weapon_Other or type unknown,9,XGBoost,0.051073621958494186
+"Weapon_Personal weapons, includes beating",9,XGBoost,0.027396613731980324
+Weapon_Poison - does not include gas,9,XGBoost,0.00014788121916353703
+Weapon_Pushed or thrown out window,9,XGBoost,0.00016400119056925178
+Weapon_Rifle,9,XGBoost,0.024774033576250076
+Weapon_Shotgun,9,XGBoost,0.035496365278959274
+Weapon_Strangulation - hanging,9,XGBoost,0.008916747756302357
+Weapon_Weapon Not Reported,9,XGBoost,0.0028981566429138184
+Circumstance_All other manslaughter by negligence,9,XGBoost,0.0017168798949569464
+Circumstance_All suspected felony type,9,XGBoost,0.05272647365927696
+Circumstance_Argument over money or property,9,XGBoost,0.05488017946481705
+Circumstance_Arson,9,XGBoost,0.00944108422845602
+Circumstance_Brawl due to influence of alcohol,9,XGBoost,0.04762527719140053
+Circumstance_Brawl due to influence of narcotics,9,XGBoost,0.0037576057948172092
+Circumstance_Burglary,9,XGBoost,0.004400493577122688
+Circumstance_Child killed by babysitter,9,XGBoost,0.004242972936481237
+Circumstance_Circumstances undetermined,9,XGBoost,0.7266293168067932
+Circumstance_Felon killed by police,9,XGBoost,0.0537540428340435
+Circumstance_Felon killed by private citizen,9,XGBoost,0.06661661714315414
+Circumstance_Gambling,9,XGBoost,0.002528940327465534
+Circumstance_Gangland killings,9,XGBoost,0.011898208409547806
+Circumstance_Institutional killings,9,XGBoost,0.001566099701449275
+Circumstance_Juvenile gang killings,9,XGBoost,0.025347990915179253
+Circumstance_Larceny,9,XGBoost,0.000872202159371227
+Circumstance_Lovers triangle,9,XGBoost,0.05619062855839729
+Circumstance_Motor vehicle theft,9,XGBoost,8.237676956923679e-05
+Circumstance_Narcotic drug laws,9,XGBoost,0.016804853454232216
+Circumstance_Other,9,XGBoost,0.07989956438541412
+Circumstance_Other - not specified,9,XGBoost,0.02897895872592926
+Circumstance_Other arguments,9,XGBoost,0.4661672115325928
+Circumstance_Other negligent handling of gun,9,XGBoost,0.0006536140572279692
+Circumstance_Other sex offense,9,XGBoost,6.193989975145087e-05
+Circumstance_Prostitution and commercialized vice,9,XGBoost,4.47894271928817e-05
+Circumstance_Rape,9,XGBoost,0.0034458644222468138
+Circumstance_Robbery,9,XGBoost,0.04388568177819252
+Circumstance_Sniper attack,9,XGBoost,0.001088009332306683
